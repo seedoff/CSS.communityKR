@@ -137,11 +137,12 @@
 				]
 			},
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* BLOG.DAUM.NET */ DIV#contentDiv, #daumContent #article.small P, #daumContent #article.small P *,\n/* TISTORY.COM */ DIV.blogview_content P, DIV[class$=\"content\"] P,\n/* BRUNCH.CO.KR */  P.wrap_item.item_type_text,\n/* BLOG.NAVER.COM */ #post-area .post-view P, #post-area .post-view DIV P, \n.se-viewer:lang(ko-KR) .se-section-text.se-l-default .se-ff-, \n.se_paragraph .se_textarea span,\nDIV.post_ct [style*=font-size], \nDIV.post_ct span,\n/* EGLOOS.COM */ DIV.smart_post DIV.post_content,\n/* TIP.DAUM.NET */ DIV.cont_qna .tit_collect+.txt_collect P\n{\n    font: 17px/1.9 Noto Serif, Chosunilbonm;\n}\n\n\n\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P \n{\n\tfont: 17px/1.9 Noto Serif, Chosunilbonm;\n}\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P.txt1 {\n\tfont-weight: bold; \n\tfont-family: Yuppy TC, Nanumbarunpen, Noto Serif, Chosunilbonm;\n\tfont-size: large;\n}\n\n\n\n/* ---->> COMMENT <<---- */\n/* BLOG.DAUM.NET */ DIV.opinionList DIV.cont, DIV.opinionList DIV.contRe, #comments LI .text,\ntextarea#simpleWriter-content,\n/* BLOG.NAVER.COM */.list_post_article .desc .text, \n.list_hottopic .text_post,\n#ct .common_comment .u_cbox .u_cbox_comment .u_cbox_text_wrap, SPAN.u_cbox_contents,\n/* TISTORY.COM */ DIV.area_reply SPAN.txt_reply, DIV.area_reply LI.re_reply SPAN.txt_reply,\n/* EGLOOS.COM */ .smart_comment .comment_list .comment_content, .smart_comment .comment_list H4.comment_writer_info SPAN.comment_writer_re\n{\n    font-family: Roboto Condensed, Nanumbarunpen !important;\n\tfont-size: 15px;\n\tcolor: #333333;\n\t\n}\n\n\n/* ---->> MISC. <<---- */\n\n/* BLOG.DAUM.NET */ SPAN[style*=\"color: rgb(255, 0, 0);\"],\n/* BLOG.NAVER.COM */ .se-viewer .se-module-text B\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n}\n\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* BLOG.DAUM.NET */ DIV#contentDiv, #daumContent #article.small P, #daumContent #article.small P *,\n/* TISTORY.COM */ DIV.blogview_content P, DIV[class$=\"content\"] P,\n/* BRUNCH.CO.KR */  P.wrap_item.item_type_text,\n/* BLOG.NAVER.COM */ #post-area .post-view P, #post-area .post-view DIV P, \n.se-viewer:lang(ko-KR) .se-section-text.se-l-default .se-ff-, \n.se_paragraph .se_textarea span,\nDIV.post_ct [style*=font-size], \nDIV.post_ct span,\n/* BLOGSPOT.COM */ div.post-body.entry-content,\n/* EGLOOS.COM */ DIV.smart_post DIV.post_content,\n/* TIP.DAUM.NET */ DIV.cont_qna .tit_collect+.txt_collect P\n{\n    font: 17px/1.9 Noto Serif, Chosunilbonm;\n}\n\n\n\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P \n{\n\tfont: 17px/1.9 Noto Serif, Chosunilbonm;\n}\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P.txt1 {\n\tfont-weight: bold; \n\tfont-family: Yuppy TC, Nanumbarunpen, Noto Serif, Chosunilbonm;\n\tfont-size: large;\n}\n\n\n\n/* ---->> COMMENT <<---- */\n/* BLOG.DAUM.NET */ DIV.opinionList DIV.cont, DIV.opinionList DIV.contRe, #comments LI .text,\ntextarea#simpleWriter-content,\n/* BLOG.NAVER.COM */.list_post_article .desc .text, \n.list_hottopic .text_post,\n#ct .common_comment .u_cbox .u_cbox_comment .u_cbox_text_wrap, SPAN.u_cbox_contents,\n/* TISTORY.COM */ DIV.area_reply SPAN.txt_reply, DIV.area_reply LI.re_reply SPAN.txt_reply,\n/* EGLOOS.COM */ .smart_comment .comment_list .comment_content, .smart_comment .comment_list H4.comment_writer_info SPAN.comment_writer_re\n{\n    font-family: Roboto Condensed, Nanumbarunpen !important;\n\tfont-size: 15px;\n\tcolor: #333333;\n\t\n}\n\n\n/* ---->> MISC. <<---- */\n\n/* BLOG.DAUM.NET */ SPAN[style*=\"color: rgb(255, 0, 0);\"],\n/* BLOG.NAVER.COM */ .se-viewer .se-module-text B\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n}\n\n\n",
 				"domains": [
 					"blog.daum.net",
 					"tip.daum.net",
 					"tistory.com",
+					"blogspot.com",
 					"egloos.com",
 					"thebook.io",
 					"brunch.co.kr",
@@ -154,7 +155,7 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1571638610169,
+		"updateDate": 1571659038865,
 		"id": 4
 	},
 	{
