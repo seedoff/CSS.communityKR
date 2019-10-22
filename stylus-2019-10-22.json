@@ -12,13 +12,13 @@
 				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nBLOCKQUOTE {\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    color: crimson;\n}\n\nA:visited {\n    color: darkred;\n}"
 			},
 			{
-				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.area_view P,\nDIV.body-article P,\nDIV.article_content .article_view P,\nDIV.tt_article_useless_p_margin P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nSECTION.main-content P,\nDIV.article p\n{\n    font-family: Noto Serif, Songti TC, Chosunilbonm;\n}\n"
+				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.area_view P,\nDIV.body-article P,\nDIV.article_content .article_view P,\nDIV.tt_article_useless_p_margin P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Noto Serif, Songti TC, Chosunilbonm;\n}\n"
 			},
 			{
 				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"],\nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen !important;\n}"
 			}
 		],
-		"updateDate": 1571655832101,
+		"updateDate": 1571727223008,
 		"id": 1
 	},
 	{
@@ -192,14 +192,14 @@
 		"name": "Social Media",
 		"sections": [
 			{
-				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Noto Serif, Hannotate TC, KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #333333;\n}\n\n",
+				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #333333;\n}\n\n",
 				"domains": [
 					"facebook.com",
 					"twitter.com"
 				]
 			}
 		],
-		"updateDate": 1571545564005,
+		"updateDate": 1571735784718,
 		"id": 6
 	},
 	{
@@ -209,17 +209,18 @@
 		"url": null,
 		"originalMd5": null,
 		"installDate": 1571193861993,
-		"name": ".go.kr",
+		"name": ".go.kr / re.kr",
 		"sections": [
 			{
-				"code": "/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx\n{\n\tfont: medium/1.6 Noto Serif, Songti TC, Chosunilbonm !important;\n}",
+				"code": "/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P\n{\n\tfont: medium/1.6 Noto Serif, Songti TC, Chosunilbonm !important;\n}",
 				"domains": [
 					"go.kr",
+					"re.kr",
 					"korean.go.kr"
 				]
 			}
 		],
-		"updateDate": 1571388054230,
+		"updateDate": 1571749324524,
 		"id": 7
 	},
 	{
