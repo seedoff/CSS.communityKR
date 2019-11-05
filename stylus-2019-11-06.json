@@ -12,13 +12,13 @@
 				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    color: crimson;\n}\n\nA:visited {\n    color: darkred;\n}"
 			},
 			{
-				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.area_view P,\nDIV.body-article P,\nDIV.article_content .article_view P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n"
+				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.area_view P,\nDIV.body-article P,\nDIV.article_content .article_view P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n"
 			},
 			{
 				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"],\nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen !important;\n\tfont-style: oblique;\n\n}"
 			}
 		],
-		"updateDate": 1572665000379,
+		"updateDate": 1572997783712,
 		"id": 1
 	},
 	{
