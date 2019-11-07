@@ -245,9 +245,10 @@
 		"name": ".co.kr",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv\n{\n\tfont: medium/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P\n{\n\tfont: medium/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt,\n/* KBENCH.COM */ DIV.field-item.even\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n",
 				"domains": [
 					"co.kr",
+					"kbench.com",
 					"albamon.com",
 					"itdaa.net",
 					"podbbang.com",
@@ -256,7 +257,7 @@
 				]
 			}
 		],
-		"updateDate": 1572486404091,
+		"updateDate": 1573104714465,
 		"id": 8
 	}
 ]
