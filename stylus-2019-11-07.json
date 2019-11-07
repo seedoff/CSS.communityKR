@@ -179,18 +179,19 @@
 		"name": "Wiki and References",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text:lang(ko) p,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: medium/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}",
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text:lang(ko) p,\n/* WIKODOK.NET */ DIV#blog DIV.prev-article.row.postContents P,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: medium/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* WIKIDOK.NET */ DIV.wkd_pick_doc P.wkd_pick_doc_mintxt,\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}",
 				"urlPrefixes": [
 					"http://www.wikiwand.com/ko/",
 					"https://ko.wikipedia.org/wiki/"
 				],
 				"domains": [
 					"namu.wiki",
+					"wikidok.net",
 					"100.daum.net"
 				]
 			}
 		],
-		"updateDate": 1572484191015,
+		"updateDate": 1573101653770,
 		"id": 5
 	},
 	{
