@@ -51,9 +51,10 @@
 		"name": "Community",
 		"sections": [
 			{
-				"code": "/* ---->>  MAIN ARTICLE  <<---- */ \n/* CLIEN.NET */ .fr-view .post_article P, ARTICLE > DIV.post_article.fr-view, DIV.post_article.inline_link,\n/* DVDPRIME.COM */ DIV.resContents P, \nDIV#resContents, P SPAN[style*=\"font-\"],\n/* DDANZI.COM */  DIV[class^=\"document_\"] P, \nDIV[class^=\"document_\"] P SPAN,\n/* OKKY.KR */ ARTICLE.content-text > P,\n/* TYPEMOON.NET */ DIV#view_content, \n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_view .view_content P,\n/* GASENGI.COM */ DIV#writeContents FONT,\n/* PGR21.COM */ DIV.articleArea, \n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_content, P[style*=\"font-family\"],\n/* TODAYHUMOR.CO.KR */ DIV.viewContent,\n/* SLRCLUB.COM */ DIV.userct, DIV#userct,\n/* BOBAEDREAM.CO.KR */ DIV.bodyCont, DIV.article-body *,\n/* PPOMPPU.CO.KR */ TD.board-contents P, DIV.cont P,\n/* FMKOREA.COM */ ARTICLE > DIV[class^=\"document_\"] P,\n/* MLBPARK.DONGA.COM */ DIV.view_context .ar_txt,\n/* INVEN.CO.KR */ DIV#powerbbsContent P,\n/* 82COOK.COM */ DIV#articleBody, \n/* DCINSIDE.COM */ DIV.gallview_contents,\n/* JJANG0U.COM */ DIV.smartOutput P,\n/* SCIENG.NET */ DIV.section-article .dti .dti-txt,\n/* INSTIZ.NET */ DIV#memo_content_1 P,\n/* DOGDRIP.NET */ \n/* AAGAG.COM */ DIV#vContent\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* ---->>  COMMENT  <<---- */ \nDIV[data-role^=\"comment\"] P,\n/* CLIEN.NET */ DIV.comment_row .comment_view P, \n/* DVDPRIME.COM */ DIV.comment_content P,\n/* DDANZI.COM */ DIV.fdComment .xe_content,\n/* TYPEMOON.NET */ TABLE.mw_basic_comment_content DIV[id^=\"view_\"],\n/* OKKY.KR */ ARTICLE.list-group-item-text.note-text,\n/* BBS.RULIWEB.COM */ .comment_wrapper .comment_view .comment_element .comment .text_wrapper .text,\n/* PGR21.COM */ DIV.cmemo SPAN,\n/* WEB.HUMORUNIV.COM */ .cmt_text, #cmt_wrap_box .cmt_list,\n/* TODAYHUMOR.CO.KR */ DIV.memoContent,\n/* BOBAEDREAM.CO.KR */ .commenticontype .commentlistbox .basiclist LI DD,\n.commenticontype .commentlistbox .best123 LI DD,\n.reply-area .reple_body .list .reply,\n/* SLRCLUB.COM */ DIV.cmt-contents,\n/* PPOMPPU.CO.KR */ DIV[id^=\"commentContent_\"],\n/* FMKOREA.COM */ DIV[class^=\"comment_\"],\n/* MLBPARK.DONGA.COM */ .reply_list .other_reply .txt .re_txt, .reply_list .my_reply .txt .re_txt,\n/* INVEN.CO.KR */ #powerbbsCmt2 .commentList1 UL LI SPAN.content,\n/* 82COOK.COM */ DIV.read_reple P,\n/* DCINSIDE.COM */ P.usertxt.ub-word,\n/* JJANG0U.COM */ LI.txt_pre SPAN,\n/* SCIENG.NET */ UL.user-comlist LI.user-comment P,\n/* DOGDRIP.NET */ DIV[class^=\"comment_\"] P,\n/* AAGAG.COM */ #c_main #nresponse .comment DIV\n{\n    font-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen ;\n    font-size: 16px;\n}\n\nSPAN.content_memo, DIV.comment_button DIV {\n\tfont-size: small !important;\n}\n\n/* ----> COMMENT line height adjustment<---- */\n/* AAGAG.COM */ #c_main #nresponse .comment div\n{\n\tline-height: 1.2;\n}\n\n/* ---->>  LIST TITLE  <<---- */ \n/* CLIEN.NET */ .list_item .list_title .list_subject .subject_fixed,  .section_list .list_item .list_title .list_subject .subject,\n/* DVDPRIME.COM */ .list_subject_a, DIV.cut_str.rc_box_list_best_a_inner, \n/* DDANZI.COM */ .board_con .list_style TABLE TBODY TR TD.title A, .boardR .read_header H1 A, .board_list .editorPost_style UL LI A,\n/* TYPEMOON.NET */ TD#mw_basic .mw_basic_view_subject, #mw_basic .mw_basic_list_subject a,\n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_top .user_view .subject,\n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_title, A.li:LINK,\n/* TODAYHUMOR.CO.KR */ .viewSubjectDiv DIV, .subject A:LINK,\n/* BOBAEDREAM.CO.KR */ .writerProfile DT STRONG, .clistTable07 TBODY TD > A,\n/* SLRCLUB.COM */ #bbs_view_head .sbj, #bbs_list .sbj A,\n/* PPOMPPU.CO.KR */ FONT.view_title2, FONT.list_title,\n/* FMKOREA.COM */ .fm_best_widget .title,\n/* MLBPARK.DONGA.COM */ .tbl_type01 TBODY TR TD .bullpen,\n/* INVEN.CO.KR */ #powerbbsBody .articleView .articleMain .articleSubject .articleTitle H1, #powerbbsBody .articleList TABLE TD.bbsSubject A.sj_ln,\n/* 82COOK.COM */ h4.title.bbstitle SPAN, .skin1 TABLE TBODY TD.title,\n/* DCINSIDE.COM */ TD.gall_tit.ub-word,\n/* THEQOO.NET */ TABLE.bd_lst TD.title A,\n/* AAGAG.COM */ .aalist A.article .title\n{\n    font-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\ttop: 0px;\n}\n\n/* ---->> Misc <<---- */\n/* CLIEN.NET */ .post_article P SPAN[style^=\"color: rgb(184, 49, 47)\"] \n{\n\tfont-family: Noto Sans CJK KR, Noto Sans;\n}\n\n/* CLIEN.NET */ .post_title .post_subject\n{\n\tfont-style: oblique;\n\tfont-weight: 600;\n}\n\n\n\n",
+				"code": "/* ---->>  MAIN ARTICLE  <<---- */ \n/* CLIEN.NET */ .fr-view .post_article P, ARTICLE > DIV.post_article.fr-view, DIV.post_article.inline_link,\n/* DVDPRIME.COM */ DIV.resContents P, \nDIV#resContents, P SPAN[style*=\"font-\"],\n/* DDANZI.COM */  DIV[class^=\"document_\"] P, \nDIV[class^=\"document_\"] P SPAN,\n/* OKKY.KR */ ARTICLE.content-text > P,\n/* TYPEMOON.NET */ DIV#view_content, \n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_view .view_content P,\n/* GASENGI.COM */ DIV#writeContents FONT,\n/* PGR21.COM */ DIV.articleArea, \n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_content, P[style*=\"font-family\"],\n/* TODAYHUMOR.CO.KR */ DIV.viewContent,\n/* SLRCLUB.COM */ DIV.userct, DIV#userct,\n/* BOBAEDREAM.CO.KR */ DIV.bodyCont, DIV.article-body *,\n/* PPOMPPU.CO.KR */ TD.board-contents P, DIV.cont P,\n/* FMKOREA.COM */ ARTICLE > DIV[class^=\"document_\"] P,\n/* MLBPARK.DONGA.COM */ DIV.view_context .ar_txt,\n/* INVEN.CO.KR */ DIV#powerbbsContent P,\n/* 82COOK.COM */ DIV#articleBody, \n/* DCINSIDE.COM */ DIV.gallview_contents,\n/* JJANG0U.COM */ DIV.smartOutput P,\n/* SCIENG.NET */ DIV.section-article .dti .dti-txt,\n/* INSTIZ.NET */ DIV#memo_content_1 P,\n/* DOGDRIP.NET */ \n/* AAGAG.COM */ DIV#vContent\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* ---->>  COMMENT  <<---- */ \nDIV[data-role^=\"comment\"] P,\n/* CLIEN.NET */ DIV.comment_row .comment_view P, \n/* DVDPRIME.COM */ DIV.comment_content P,\n/* DDANZI.COM */ DIV.fdComment .xe_content,\n/* TYPEMOON.NET */ TABLE.mw_basic_comment_content DIV[id^=\"view_\"],\n/* OKKY.KR */ ARTICLE.list-group-item-text.note-text,\n/* BBS.RULIWEB.COM */ .comment_wrapper .comment_view .comment_element .comment .text_wrapper .text,\n/* PGR21.COM */ DIV.cmemo SPAN,\n/* WEB.HUMORUNIV.COM */ .cmt_text, #cmt_wrap_box .cmt_list,\n/* TODAYHUMOR.CO.KR */ DIV.memoContent,\n/* BOBAEDREAM.CO.KR */ .commenticontype .commentlistbox .basiclist LI DD,\n.commenticontype .commentlistbox .best123 LI DD,\n.reply-area .reple_body .list .reply,\n/* SLRCLUB.COM */ DIV.cmt-contents,\n/* PPOMPPU.CO.KR */ DIV[id^=\"commentContent_\"],\n/* FMKOREA.COM */ DIV[class^=\"comment_\"],\n/* MLBPARK.DONGA.COM */ .reply_list .other_reply .txt .re_txt, .reply_list .my_reply .txt .re_txt,\n/* INVEN.CO.KR */ #powerbbsCmt2 .commentList1 UL LI SPAN.content,\n/* 82COOK.COM */ DIV.read_reple P,\n/* DCINSIDE.COM */ P.usertxt.ub-word,\n/* JJANG0U.COM */ LI.txt_pre SPAN,\n/* SCIENG.NET */ UL.user-comlist LI.user-comment P,\n/* DOGDRIP.NET */ DIV[class^=\"comment_\"] P,\n/* AAGAG.COM */ #c_main #nresponse .comment DIV,\n/* CAFE.DAUM.NET */ .cafe_memo .list_cafe li .info_cafe .tit_info\n{\n    font-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen ;\n    font-size: 16px;\n}\n\nSPAN.content_memo, DIV.comment_button DIV {\n\tfont-size: small !important;\n}\n\n/* ----> COMMENT line height adjustment<---- */\n/* AAGAG.COM */ #c_main #nresponse .comment div\n{\n\tline-height: 1.2;\n}\n\n/* ---->>  LIST TITLE  <<---- */ \n/* CLIEN.NET */ .list_item .list_title .list_subject .subject_fixed,  .section_list .list_item .list_title .list_subject .subject,\n/* DVDPRIME.COM */ .list_subject_a, DIV.cut_str.rc_box_list_best_a_inner, \n/* DDANZI.COM */ .board_con .list_style TABLE TBODY TR TD.title A, .boardR .read_header H1 A, .board_list .editorPost_style UL LI A,\n/* TYPEMOON.NET */ TD#mw_basic .mw_basic_view_subject, #mw_basic .mw_basic_list_subject a,\n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_top .user_view .subject,\n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_title, A.li:LINK,\n/* TODAYHUMOR.CO.KR */ .viewSubjectDiv DIV, .subject A:LINK,\n/* BOBAEDREAM.CO.KR */ .writerProfile DT STRONG, .clistTable07 TBODY TD > A,\n/* SLRCLUB.COM */ #bbs_view_head .sbj, #bbs_list .sbj A,\n/* PPOMPPU.CO.KR */ FONT.view_title2, FONT.list_title,\n/* FMKOREA.COM */ .fm_best_widget .title,\n/* MLBPARK.DONGA.COM */ .tbl_type01 TBODY TR TD .bullpen,\n/* INVEN.CO.KR */ #powerbbsBody .articleView .articleMain .articleSubject .articleTitle H1, #powerbbsBody .articleList TABLE TD.bbsSubject A.sj_ln,\n/* 82COOK.COM */ h4.title.bbstitle SPAN, .skin1 TABLE TBODY TD.title,\n/* DCINSIDE.COM */ TD.gall_tit.ub-word,\n/* THEQOO.NET */ TABLE.bd_lst TD.title A,\n/* AAGAG.COM */ .aalist A.article .title\n{\n    font-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\ttop: 0px;\n}\n\n/* ---->> Misc <<---- */\n/* CLIEN.NET */ .post_article P SPAN[style^=\"color: rgb(184, 49, 47)\"] \n{\n\tfont-family: Noto Sans CJK KR, Noto Sans;\n}\n\n/* CLIEN.NET */ .post_title .post_subject\n{\n\tfont-style: oblique;\n\tfont-weight: 600;\n}\n\n\n\n",
 				"domains": [
 					"clien.net",
+					"cafe.daum.net",
 					"dcinside.com",
 					"typemoon.net",
 					"gasengi.com",
@@ -81,7 +82,7 @@
 				]
 			}
 		],
-		"updateDate": 1573039392007,
+		"updateDate": 1573259068960,
 		"id": 3
 	},
 	{
@@ -222,6 +223,27 @@
 		"md5Url": null,
 		"url": null,
 		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KT */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: medium/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1573095957619,
+		"id": 7
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
 		"installDate": 1571195687581,
 		"name": ".co.kr",
 		"sections": [
@@ -240,26 +262,5 @@
 		],
 		"updateDate": 1573104714465,
 		"id": 8
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KT */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: medium/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1573095957619,
-		"id": 9
 	}
 ]
