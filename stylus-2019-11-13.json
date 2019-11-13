@@ -248,7 +248,7 @@
 		"name": ".co.kr",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P\n{\n\tfont: medium/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* KBENCH.COM */ DIV.field-item.even\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n/* // DESCRIPTION // */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* KBENCH.COM */ DIV.field-item.even\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n/* // DESCRIPTION // */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n",
 				"domains": [
 					"co.kr",
 					"kbench.com",
@@ -256,11 +256,12 @@
 					"itdaa.net",
 					"podbbang.com",
 					"epilia.net",
-					"webtoon.daum.net"
+					"webtoon.daum.net",
+					"samsunghospital.com"
 				]
 			}
 		],
-		"updateDate": 1573442252542,
+		"updateDate": 1573615336340,
 		"id": 8
 	}
 ]
