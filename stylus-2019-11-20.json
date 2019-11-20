@@ -12,13 +12,13 @@
 				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    color: crimson;\n}\n\nA:visited {\n    color: darkred;\n}"
 			},
 			{
-				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\tfont-size: 17px;\n\tline-height: 1.9;\n\n}\n"
+				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n"
 			},
 			{
 				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"], \nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen !important;\n\tfont-style: oblique;\n\n}"
 			}
 		],
-		"updateDate": 1574167961496,
+		"updateDate": 1574173976492,
 		"id": 1
 	},
 	{
@@ -174,7 +174,7 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1574173822762,
+		"updateDate": 1574174120752,
 		"id": 4
 	},
 	{
@@ -240,7 +240,7 @@
 				]
 			}
 		],
-		"updateDate": 1574126341267,
+		"updateDate": 1574230136648,
 		"id": 7
 	},
 	{
@@ -253,7 +253,7 @@
 		"name": ".co.kr",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* DANAWA.COM */ DIV.comm_wrap DIV.atc,\n/* KBENCH.COM */ DIV.field-item.even\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n/* // DESCRIPTION // */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* EARLYADAPTER.CO.KR */ DIV.td-post-content P,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* DANAWA.COM */ DIV.comm_wrap DIV.atc,\n/* KBENCH.COM */ DIV.field-item.even\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> Misc. <---- */ \n/* // DESCRIPTION // */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n",
 				"domains": [
 					"co.kr",
 					"kbench.com",
@@ -267,7 +267,7 @@
 				]
 			}
 		],
-		"updateDate": 1574123493556,
+		"updateDate": 1574230178087,
 		"id": 8
 	}
 ]
