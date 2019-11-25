@@ -178,7 +178,7 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1574425378418,
+		"updateDate": 1574651033717,
 		"id": 4
 	},
 	{
@@ -216,14 +216,14 @@
 		"name": "Social Media",
 		"sections": [
 			{
-				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #333333;\n}\n\n",
+				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"], P.TweetTextSize\n{\n\tfont: 18px/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"],\n/* TWITTER.COM */ .TwitterCard .SummaryCard-content p\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #333333;\n}\n\n",
 				"domains": [
 					"facebook.com",
 					"twitter.com"
 				]
 			}
 		],
-		"updateDate": 1572009897925,
+		"updateDate": 1574686279302,
 		"id": 6
 	},
 	{
