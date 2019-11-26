@@ -32,14 +32,14 @@
 		"name": "Google, Youtube",
 		"sections": [
 			{
-				"code": "/* Search result description */ .st, .iUh30,\n/* Search result description in mobile page */ DIV.MUxGbd.yDYNvb \n{\n    font-size: small;\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n/* Search result Title */ H3.LC20lb {\n    font-weight: 500;\n}\n\n/* Search result Title in mobile page */ DIV.MUxGbd.v0nnCb {\n\tfont: 18px bold Noto Sans, Noto Sans CJK KR;\n\tfont-style: oblique;\n}\n\n/* Search keyword in the results */ \n.s .st EM {\n    color: darkred;\n}\n\n/* YOUTUBE description */\n#description.ytd-video-secondary-info-renderer {\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n/* YOUTUBE title */\n.title.ytd-video-primary-info-renderer {\n    font-family: Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\n/* YOUTUBE comment */\n#content-text.ytd-comment-renderer,\nytm-comment-renderer[expanded=\"true\"] .comment-text\n{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-size: 16px;\n\tline-height: 1.2;\n}",
+				"code": "/* Top result from Google Search */ SPAN.e24Kjd\n{\n\tfont-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n\n\n/* Search result description */ .st, .iUh30,\n/* Search result description in mobile page */ DIV.MUxGbd.yDYNvb \n{\n    font-size: small;\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n\n/* Search result Title */ H3.LC20lb {\n    font-weight: 500;\n}\n\n/* Search result Title in mobile page */ DIV.MUxGbd.v0nnCb {\n\tfont: 18px bold Noto Sans, Noto Sans CJK KR;\n\tfont-style: oblique;\n}\n\n/* Search keyword in the results */ \n.s .st EM {\n    color: darkred;\n}\n\n/* YOUTUBE description */\n#description.ytd-video-secondary-info-renderer {\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n/* YOUTUBE title */\n.title.ytd-video-primary-info-renderer {\n    font-family: Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\n/* YOUTUBE comment */\n#content-text.ytd-comment-renderer,\nytm-comment-renderer[expanded=\"true\"] .comment-text\n{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-size: 16px;\n\tline-height: 1.2;\n}",
 				"domains": [
 					"google.com",
 					"youtube.com"
 				]
 			}
 		],
-		"updateDate": 1574126423442,
+		"updateDate": 1574758522162,
 		"id": 2
 	},
 	{
@@ -216,14 +216,14 @@
 		"name": "Social Media",
 		"sections": [
 			{
-				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #333333;\n}\n\n",
+				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tfont-size: 15px;;\n\tcolor: #333333;\n}\n\n",
 				"domains": [
 					"facebook.com",
 					"twitter.com"
 				]
 			}
 		],
-		"updateDate": 1572009897925,
+		"updateDate": 1574754499345,
 		"id": 6
 	},
 	{
