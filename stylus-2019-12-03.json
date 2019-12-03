@@ -227,36 +227,16 @@
 		"name": "Social Media",
 		"sections": [
 			{
-				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tfont-size: 15px;;\n\tcolor: #333333;\n}\n\n",
+				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"],\n/* REDDIT.COM */ DIV[data-test-id=\"comment\"] P\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tfont-size: 15px;;\n\tcolor: #333333;\n}\n\n",
 				"domains": [
 					"facebook.com",
-					"twitter.com"
+					"twitter.com",
+					"reddit.com"
 				]
 			}
 		],
-		"updateDate": 1574754499345,
+		"updateDate": 1575381753430,
 		"id": 6
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KT */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1575260820071,
-		"id": 7
 	},
 	{
 		"enabled": true,
@@ -285,5 +265,26 @@
 		],
 		"updateDate": 1574926360105,
 		"id": 8
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KT */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1575260820071,
+		"id": 9
 	}
 ]
