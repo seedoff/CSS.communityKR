@@ -289,5 +289,25 @@
 		],
 		"updateDate": 1575551185505,
 		"id": 8
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1575701465281,
+		"name": "Document and books ",
+		"sections": [
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P\n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen ;\n}",
+				"urlPrefixes": [
+					"https://docs.djangoproject.com/ko/",
+					"https://developer.mozilla.org/ko/"
+				]
+			}
+		],
+		"updateDate": 1575702173114,
+		"id": 12
 	}
 ]
