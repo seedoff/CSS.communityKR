@@ -9,7 +9,7 @@
 		"name": "#BASIC",
 		"sections": [
 			{
-				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    color: crimson;\n}\n\nA:visited {\n    color: darkred;\n}"
+				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    text-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #663333;\n\t\n}\n\nA:visited {\n    color: darkred;\n}"
 			},
 			{
 				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n"
@@ -18,7 +18,7 @@
 				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"], \nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen;\n\tfont-style: oblique;\n\n}"
 			}
 		],
-		"updateDate": 1575857675798,
+		"updateDate": 1575868875684,
 		"id": 1,
 		"exclusions": []
 	},
@@ -32,14 +32,14 @@
 		"name": "Google, Youtube",
 		"sections": [
 			{
-				"code": "/* Top result from Google Search */ SPAN.e24Kjd\n{\n\tfont-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n\n\n/* Search result description */ .st, .iUh30,\n/* Search result description in mobile page */ DIV.MUxGbd.yDYNvb \n{\n    font-size: 14px;\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n\n/* Search result Title */ H3.LC20lb {\n    font-weight: 500;\n}\n\n/* Search result Title in mobile page */ DIV.MUxGbd.v0nnCb {\n\tfont: 18px bold Noto Sans, Noto Sans CJK KR;\n\tfont-style: oblique;\n}\n\n/* Date search result created */ SPAN.st SPAN.f  {\n    color: #eb0000;\n\tfont-style: oblique;\n}\n\n/* Search keyword in the results */  .s .st EM  {\n    color: indianred;\n}\n\n\n/* YOUTUBE description */\n#description.ytd-video-secondary-info-renderer {\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n/* YOUTUBE title */\n.title.ytd-video-primary-info-renderer {\n    font-family: Yes24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\n/* YOUTUBE comment */\n#content-text.ytd-comment-renderer,\nytm-comment-renderer[expanded=\"true\"] .comment-text\n{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-size: 16px;\n\tline-height: 1.2;\n}",
+				"code": "/* Top result from Google Search */ SPAN.e24Kjd\n{\n\tfont-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n\n\n/* Search result description */ .st, .iUh30,\n/* Search result description in mobile page */ DIV.MUxGbd.yDYNvb \n{\n    font-size: 14px;\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n\n/* Search result Title */ H3.LC20lb {\n    font-weight: 500;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #663333;\n}\n\n/* Search result Title in mobile page */ DIV.MUxGbd.v0nnCb {\n\tfont: 18px bold Noto Sans, Noto Sans CJK KR;\n\tfont-style: oblique;\n}\n\n/* Date search result created */ SPAN.st SPAN.f  {\n    color: #eb0000;\n\tfont-style: oblique;\n}\n\n/* Search keyword in the results */  .s .st EM  {\n    color: indianred;\n}\n\n\n/* YOUTUBE description */\n#description.ytd-video-secondary-info-renderer {\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n}\n\n/* YOUTUBE title */\n.title.ytd-video-primary-info-renderer {\n    font-family: Yes24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\n/* YOUTUBE comment */\n#content-text.ytd-comment-renderer,\nytm-comment-renderer[expanded=\"true\"] .comment-text\n{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-size: 16px;\n\tline-height: 1.2;\n}",
 				"domains": [
 					"google.com",
 					"youtube.com"
 				]
 			}
 		],
-		"updateDate": 1575453352446,
+		"updateDate": 1575869091080,
 		"id": 2
 	},
 	{
