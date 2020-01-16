@@ -260,27 +260,6 @@
 		"md5Url": null,
 		"url": null,
 		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1575419976696,
-		"id": 7
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
 		"installDate": 1571195687581,
 		"name": ".co.kr",
 		"sections": [
@@ -311,23 +290,45 @@
 		"md5Url": null,
 		"url": null,
 		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1575419976696,
+		"id": 9
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
 		"installDate": 1575701465281,
 		"name": "Document and books",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* PYRASIS.COM */ DIV.col-md-12 P\n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P\n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
 				"urlPrefixes": [
 					"https://docs.djangoproject.com/ko/",
 					"https://developer.mozilla.org/ko/",
 					"http://pyrasis.com",
-					"https://docs.python.org/ko/"
+					"https://docs.python.org/ko/",
+					"https://dojang.io/mod/page/"
 				],
 				"domains": [
 					"britg.kr"
 				]
 			}
 		],
-		"updateDate": 1578266408560,
+		"updateDate": 1579184240147,
 		"id": 12
 	}
 ]
