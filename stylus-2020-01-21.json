@@ -260,32 +260,11 @@
 		"md5Url": null,
 		"url": null,
 		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1579404742773,
-		"id": 7
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
 		"installDate": 1571195687581,
 		"name": ".co.kr",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* TCPSCHOOL.COM */ DIV.editor-template H4 ~ P,\n/* EARLYADAPTER.CO.KR */ DIV.td-post-content P,\n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* DANAWA.COM */ DIV.comm_wrap DIV.atc,\n/* KBENCH.COM */ DIV.field-item.even,\n\n/* ----> DESCRIPTION <---- */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A,\n/* MIND-JOURNAL.COM */ DIV.custom-article-view .article-header-wrap .article-head-sub\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> MISC. <---- */ \n/* ---- ignore style ---- */ \n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN[style^=\"color:\"]\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n\n}\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* TCPSCHOOL.COM */ DIV.editor-template H4 ~ P,\n/* EARLYADAPTER.CO.KR */ DIV.td-post-content P,\n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN,\n/* YOONJONGSHIN.COM */ DIV.main ARTICLE.post DIV.content P,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* DANAWA.COM */ DIV.comm_wrap DIV.atc,\n/* KBENCH.COM */ DIV.field-item.even,\n\n/* ----> DESCRIPTION <---- */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A,\n/* MIND-JOURNAL.COM */ DIV.custom-article-view .article-header-wrap .article-head-sub\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen;\t\n}\n\n\n/* ----> MISC. <---- */ \n/* ---- ignore style ---- */ \n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN[style^=\"color:\"]\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n\n}\n\n",
 				"domains": [
 					"co.kr",
 					"tcpschool.com",
@@ -302,8 +281,29 @@
 				]
 			}
 		],
-		"updateDate": 1575946672704,
+		"updateDate": 1579609371830,
 		"id": 8
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1579404742773,
+		"id": 9
 	},
 	{
 		"enabled": true,
