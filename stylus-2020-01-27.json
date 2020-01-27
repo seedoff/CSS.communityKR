@@ -84,6 +84,7 @@
 					"ppomppu.co.kr",
 					"bobaedream.co.kr",
 					"slrclub.com",
+					"x86.co.kr",
 					"dvdprime.com",
 					"aagag.com",
 					"ddanzi.com",
@@ -96,7 +97,7 @@
 				]
 			}
 		],
-		"updateDate": 1579564808453,
+		"updateDate": 1580108392452,
 		"id": 3
 	},
 	{
@@ -260,6 +261,27 @@
 		"md5Url": null,
 		"url": null,
 		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1579404742773,
+		"id": 7
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
 		"installDate": 1571195687581,
 		"name": ".co.kr",
 		"sections": [
@@ -283,27 +305,6 @@
 		],
 		"updateDate": 1579609371830,
 		"id": 8
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1579404742773,
-		"id": 9
 	},
 	{
 		"enabled": true,
