@@ -12,17 +12,17 @@
 				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n\t-moz-osx-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    text-shadow: 1px 1px 0px #ffffff, 1px 1px 0px #000;\n\t\n}\n\nA:visited {\n    color: darkred;\n}"
 			},
 			{
-				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P,\nDIV.read_body DIV.xe_content \n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n"
+				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.post P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P,\nDIV.read_body DIV.xe_content \n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n"
 			},
 			{
 				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"], \nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Nanumbarunpen;\n\tfont-style: oblique;\n\n}"
 			}
 		],
-		"updateDate": 1581675017702,
+		"updateDate": 1582687193334,
 		"id": 1,
 		"exclusions": [],
 		"_id": "69879956-afd4-496d-a111-16fef55b9395",
-		"_rev": 1582000500748
+		"_rev": 1582687193334
 	},
 	{
 		"enabled": true,
@@ -213,10 +213,10 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1582686693863,
+		"updateDate": 1582687166950,
 		"id": 4,
 		"_id": "91650705-51c6-4c74-a59f-31c414fbd035",
-		"_rev": 1582686693863
+		"_rev": 1582687166950
 	},
 	{
 		"enabled": true,
