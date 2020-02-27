@@ -335,22 +335,23 @@
 		"name": "Document and books",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P\n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P,\n/* MICROSOFT.COM */ DIV.mainContainer DIV#main-column P SPAN\n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
 				"urlPrefixes": [
 					"https://docs.djangoproject.com/ko/",
 					"https://developer.mozilla.org/ko/",
 					"http://pyrasis.com",
 					"https://docs.python.org/ko/",
-					"https://dojang.io/mod/page/"
+					"https://dojang.io/mod/page/",
+					"https://docs.microsoft.com/ko-kr/"
 				],
 				"domains": [
 					"britg.kr"
 				]
 			}
 		],
-		"updateDate": 1579184240147,
+		"updateDate": 1582806899951,
 		"id": 12,
 		"_id": "48a0c37d-d850-4c77-9cc6-99aabe69f45b",
-		"_rev": 1580732720605
+		"_rev": 1582806899951
 	}
 ]
