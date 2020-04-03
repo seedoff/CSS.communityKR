@@ -211,6 +211,7 @@
 					"samsungsds.com",
 					"heropy.blog",
 					"sungmooncho.com",
+					"dullahbank.com",
 					"ne.kr"
 				]
 			},
@@ -224,10 +225,10 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1585583128109,
+		"updateDate": 1585908483151,
 		"id": 4,
 		"_id": "91650705-51c6-4c74-a59f-31c414fbd035",
-		"_rev": 1585820746026
+		"_rev": 1585908483151
 	},
 	{
 		"enabled": true,
