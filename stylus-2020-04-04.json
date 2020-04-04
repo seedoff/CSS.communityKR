@@ -253,14 +253,15 @@
 					"librewiki.net",
 					"wikiwand.com",
 					"wikipedia.org",
-					"everipedia.org"
+					"everipedia.org",
+					"hash.kr"
 				]
 			}
 		],
-		"updateDate": 1585999589246,
+		"updateDate": 1586001555610,
 		"id": 5,
 		"_id": "8737d050-0bbc-40df-b839-67f84b42c5cf",
-		"_rev": 1585999589246
+		"_rev": 1586001555610
 	},
 	{
 		"enabled": true,
