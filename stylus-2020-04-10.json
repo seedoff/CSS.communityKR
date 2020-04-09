@@ -362,16 +362,17 @@
 					"https://dojang.io/mod/page/",
 					"https://docs.microsoft.com/ko-kr/",
 					"https://rinthel.github.io/rust-lang-book-ko/",
-					"https://mug896.github.io/bash-shell/"
+					"https://mug896.github.io/bash-shell/",
+					"http://gameprogrammingpatterns.com/"
 				],
 				"domains": [
 					"britg.kr"
 				]
 			}
 		],
-		"updateDate": 1585565421875,
+		"updateDate": 1586472957199,
 		"id": 12,
 		"_id": "48a0c37d-d850-4c77-9cc6-99aabe69f45b",
-		"_rev": 1585820746026
+		"_rev": 1586472957199
 	}
 ]
