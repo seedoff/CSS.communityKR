@@ -201,6 +201,7 @@
 					"egloos.com",
 					"thebook.io",
 					"brunch.co.kr",
+					"theimpeter.com",
 					"blog.naver.com",
 					"m.blog.naver.com",
 					"post.naver.com",
@@ -227,10 +228,10 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1585973642807,
+		"updateDate": 1587254294739,
 		"id": 4,
 		"_id": "91650705-51c6-4c74-a59f-31c414fbd035",
-		"_rev": 1585973642807
+		"_rev": 1587254294740
 	},
 	{
 		"enabled": true,
