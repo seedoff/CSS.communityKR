@@ -22,7 +22,7 @@
 		"id": 1,
 		"exclusions": [],
 		"_id": "69879956-afd4-496d-a111-16fef55b9395",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -44,7 +44,7 @@
 		"updateDate": 1575874541790,
 		"id": 2,
 		"_id": "69ca0b64-5726-42ac-975b-2134fde8433d",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -105,7 +105,7 @@
 		"updateDate": 1587743847704,
 		"id": 3,
 		"_id": "830d7418-7bd8-43ba-8314-4c4cabfabcc4",
-		"_rev": 1587743847704
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -117,7 +117,7 @@
 		"name": "NEWS and Blog",
 		"sections": [
 			{
-				"code": "/* --->> TITLE <<---- */ \n/* GAMEMECA.COM */ DIV.list_view_tit P.tit\n{\n\tfont-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\n\n\n/* --->>  ARTICLE   <<--- */\n/* news.v.daum.net */ .news_view SECTION > P, .news_view SECTION > DIV,\n/* entertain.naver.com */ .article_body,\n/* news.naver.com */ DIV#articleBodyContents, DIV.newsct_article,\n/* SPORTS.NAVER.COM */ DIV.fs2 DIV.newsct_body ARTICLE.main_article, DIV.fs2 DIV.newsct_body ARTICLE.main_article P,\n/* FINANCE.NAVER.COM */ DIV.scr01 DIV#body,\n/* tv.naver.com */ .player .info_box .desc,\n/* news.nate.com */ #articleView .article.medium, DIV.news_view ARTICLE DIV.view_cont,\n/* newspeppermint.com */ DIV.main-content > DIV > P,\n/* bbc.com/korean */ DIV.story-body__inner P:lang(ko),\n/* mk.co.kr */ DIV#Content .left_content .art_txt,\n/* NOCUTNEWS.CO.KR */ DIV#pnlViewBox DIV#pnlContent,\n/* MEDIAUS.CO.KR */ ARTICLE.articleView DIV#articleBody > DIV.body P, DIV#article-wrap DIV.content \n DIV.cont-body P,\n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV.text, DIV.textyleContent DIV.xe_content P,\n/* BIZHANKOOK.COM */ DIV.sub01 SECTION.viewContWrap > P,\n/* koreatimes.com */ DIV#print_arti,\n/* SCIENCETIMES.CO.KR */ DIV#content-area P,\n/* GAMEMECA.COM */ DIV.news-view DIV.article DIV, DIV.view_cont DIV,\n/* sisain.co.kr */ DIV#article-view-content-div,\n/* KOOKMINNEWS.COM */ DIV.basicView DIV.viewContentWrap DIV.viewContent P SPAN,\n/* NEWSCHAM.NET */ DIV#news-article-content,\n/* koreadaily.com */ ARTICLE#articleContents,\n/* gqkorea.co.kr */ .single-post .post-content P,\n/* esquirekorea.co.kr */ #eq .article_wrap .atc_content,\n/* chosun.com */ DIV.news_body .par,\n/* khan.co.kr */ DIV.viewContent .viewText,\n/* seoul.co.kr */ DIV.v_article, DIV.Acon18,\n/* clomag.co.kr */ DIV.article .content P, \n/* BODNARA.CO.KR */ DIV#article_1 P,\n/* mt.co.kr */ #article .article_view table td .view_text #textBody,\n/* ciokorea.com */ DIV.node_body,\n/* BOANNEWS.COM */ #body_left #media #news_content,\n/* itworld.co.kr */ DIV.node_body .cb P,\n/* LAWTALK.CO.KR */ DIV.ql-editor P ,\n/* insight.co.kr */ DIV.news-article-memo P,\n/* news.joins.com */ DIV.article_body, DIV.article04, DIV.article04 DIV.article_content, DIV.article04 DIV.article_content p, DIV.article04 td,\n/* techit.kr */ p.StoryBody__paragraph,\n/* cine21.com */ DIV#container #content.news.detail .article P,\n/* noteforum.co.kr */ TD.BbsViewContents P FONT,\n/* VIEWSNNEWS.COM */ DIV.content,\n/* PLATUM.KR */ DIV#page_content_wrapper P, DIV.page_content_wrapper P,\n/* HANKYUNG.COM */ DIV#articletxt, \n/* VOP.CO.KR */ DIV.contents P.article-text,\n/* VOAKOREA.COM */ DIV.wsw P,\n/* ASIAE.CO.KR */ TD DIV.read, \n/* SLOWNEWS.KR */ DIV.single_article_content P,\n/* THEBELL.CO.KR */ DIV.viewBox .viewSection,\n/* VENTURESQUARE.NET */ ARTICLE.post DIV.post-content > P,\n/* KBS.CO.KR */ SECTION.comp_view_default DIV.body_txt.fr-view, DIV.det-news .detail-body, DIV.det-news .card-gallery P,\n/* IMBC.COM */ DIV.news_contents SECTION.cont SECTION.body SECTION.txt, DIV.view-area DIV.left DIV.bottom-area DIV.content-wrap,\n/* SBS.CO.KR */ DIV.w_article DIV.main_text, DIV#content DIV.main_text,\n/* ABLENEWS.CO.KR */ DIV#NewsContent,\n/* MOVIE.NAVER.COM */ DIV.story_area P.con_tx,\n/* DONGASCIENCE.DONGA.COM */ DIV#article_body P,\n/* EINFOMAX.CO.KR */ DIV.article-veiw-body.view-page div[style]+div[style], DIV.article-veiw-body.view-page div[style]+p, DIV.article-veiw-body.view-page figure+div[style], DIV.article-veiw-body.view-page figure+figure, DIV.article-veiw-body.view-page figure+p,\n\n/* LABORTODAY.CO.KR */ DIV#articleBody > DIV.body p,\n#articleView .article.medium *\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n\tword-spacing: 0px;\t\n\n}\n\n/* ---- QUOTE ----  */ \n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV#news-box2 DIV.news-box2 {\n\t  font: 16px/1.5 Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\n}\n\n\n/* ---->> COMMENT <<---- */ \n/* news.v.daum.net */ P.desc_txt.font_size_17, P.desc_txt.font_size_,\n/* movie.daum.net */ .list_review .desc_review,\n/* MOVIE.NAVER.COM */ DIV.score_result DIV.score_reple P,\n/* news.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* FINANCE.NAVER.COM */ DIV.cbox DIV.cbox_list_comment DIV.cbox_desc_comment P.cbox_desc,\n/* tv.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* news.nate.com */ DD[id^=\"list_cmtcontent_\"], .cmt_best DL.cmt_item DD.usertxt, DIV.replyContent DIV.reply DD.userText A,\n/* chosun.com */ DL.cmt_comment .cmt_txt,\n/* techit.kr */ BLOCKQUOTE.quotation_blockquote P,\n/* VIEWSNNEWS.COM */ SECTION#reply LI P,\n/* IMBC.COM */ DD.rpl_article, \n/* THISISGAME.COM*/ .comment-box .comment-content,\n/* JEJUSORI.NET */ section.comments-content,\n/* JOINS.COM */ DIV.comment_area DL.cmt_info P,\n/* MEDIATODAY.CO.KR */ DIV.custom-view SECTION.reply-list SECTION.container SECTION.comments-content,\n/* discus.co.kr */ DIV.post-content .post-message P, \n.discovery-post .top-comment P,\n/* livere.me */ DIV#container .reply-content-wrapper .reply-content P\n\n{\n    font: 16px Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #3b4e90;\n}\n\n\n\n/* ---->> Misc. <<---- */ \n/* ---- LIST OF TITLE ---- */ \n/* FINANCE.NAVER.COM */ TABLE.type2 TD.title A \n{\n\tfont-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\tfont-size: medium;\n\n}\n\n/* ----> DESCRIPTION <---- */\n/* INDIEPOST.CO.KR */ DIV.description:lang(ko) P,\n/* INSIGHT.CO.KR */ SPAN.caption,\n/* CIOKOREA.COM */ #m_topic_news_list_summary, .news_body_summary,\n/* FEEDLY.COM */ .fx .entry.u4 .summary, [itemprop=\"description\"],\n/* TECHIT.KR */ DIV.StoryDescription__paragraph,\n/* SLOWNEWS.KR */ DIV.footnote-content-wrapper P,\n/* NEWS.DAUM.NET */ #newsColl .wrap_cont .desc,\n/* 1BOON.KAKAO.COM */ .quote_view .type_emph BLOCKQUOTE.txt_quote SPAN, .htmlbox_view .line_tip,\n/* MOVIE.DAUM.NET */ .movie .main_detail .desc_movie:lang(ko), \n.movie .cont_movie .list_magazine .txt_magazine:lang(ko)\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n/* MT.CO.KR */ font[color]\n{\n\tfont-family: Sans;\n\tfont-size: medium;\n\tfont-weight: bold;\n\n}\n\n/* N.NEWS.NAVER.COM */ /* DIV.newsct_article SPAN.article_p */ SPAN.cssFont \n{\n\tfont: 17px/1.9 Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n}\n",
+				"code": "/* --->> TITLE <<---- */ \n/* GAMEMECA.COM */ DIV.list_view_tit P.tit\n{\n\tfont-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\n\n\n/* --->>  ARTICLE   <<--- */\n/* news.v.daum.net */ .news_view SECTION > P, .news_view SECTION > DIV,\n/* entertain.naver.com */ .article_body,\n/* news.naver.com */ DIV#articleBodyContents, DIV.newsct_article,\n/* SPORTS.NAVER.COM */ DIV.fs2 DIV.newsct_body ARTICLE.main_article, DIV.fs2 DIV.newsct_body ARTICLE.main_article P,\n/* FINANCE.NAVER.COM */ DIV.scr01 DIV#body,\n/* tv.naver.com */ .player .info_box .desc,\n/* news.nate.com */ #articleView .article.medium, DIV.news_view ARTICLE DIV.view_cont,\n/* newspeppermint.com */ DIV.main-content > DIV > P,\n/* bbc.com/korean */ DIV.story-body__inner P:lang(ko),\n/* mk.co.kr */ DIV#Content .left_content .art_txt,\n/* NOCUTNEWS.CO.KR */ DIV#pnlViewBox DIV#pnlContent,\n/* MEDIAUS.CO.KR */ ARTICLE.articleView DIV#articleBody > DIV.body P, DIV#article-wrap DIV.content \n DIV.cont-body P,\n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV.text, DIV.textyleContent DIV.xe_content P,\n/* BIZHANKOOK.COM */ DIV.sub01 SECTION.viewContWrap > P,\n/* koreatimes.com */ DIV#print_arti,\n/* SCIENCETIMES.CO.KR */ DIV#content-area P,\n/* GAMEMECA.COM */ DIV.news-view DIV.article DIV, DIV.view_cont DIV,\n/* WIKITREE.CO.KR */ DIV.content_left_wrap DIV.article_body DIV, DIV.content_left_wrap DIV.article_body P,\n/* sisain.co.kr */ DIV#article-view-content-div,\n/* KOOKMINNEWS.COM */ DIV.basicView DIV.viewContentWrap DIV.viewContent P SPAN,\n/* NEWSCHAM.NET */ DIV#news-article-content,\n/* koreadaily.com */ ARTICLE#articleContents,\n/* gqkorea.co.kr */ .single-post .post-content P,\n/* esquirekorea.co.kr */ #eq .article_wrap .atc_content,\n/* chosun.com */ DIV.news_body .par,\n/* khan.co.kr */ DIV.viewContent .viewText,\n/* seoul.co.kr */ DIV.v_article, DIV.Acon18,\n/* clomag.co.kr */ DIV.article .content P, \n/* BODNARA.CO.KR */ DIV#article_1 P,\n/* mt.co.kr */ #article .article_view table td .view_text #textBody,\n/* ciokorea.com */ DIV.node_body,\n/* BOANNEWS.COM */ #body_left #media #news_content,\n/* itworld.co.kr */ DIV.node_body .cb P,\n/* LAWTALK.CO.KR */ DIV.ql-editor P ,\n/* insight.co.kr */ DIV.news-article-memo P,\n/* news.joins.com */ DIV.article_body, DIV.article04, DIV.article04 DIV.article_content, DIV.article04 DIV.article_content p, DIV.article04 td,\n/* techit.kr */ p.StoryBody__paragraph,\n/* cine21.com */ DIV#container #content.news.detail .article P,\n/* noteforum.co.kr */ TD.BbsViewContents P FONT,\n/* VIEWSNNEWS.COM */ DIV.content,\n/* PLATUM.KR */ DIV#page_content_wrapper P, DIV.page_content_wrapper P,\n/* HANKYUNG.COM */ DIV#articletxt, \n/* VOP.CO.KR */ DIV.contents P.article-text,\n/* VOAKOREA.COM */ DIV.wsw P,\n/* ASIAE.CO.KR */ TD DIV.read, \n/* SLOWNEWS.KR */ DIV.single_article_content P,\n/* THEBELL.CO.KR */ DIV.viewBox .viewSection,\n/* VENTURESQUARE.NET */ ARTICLE.post DIV.post-content > P,\n/* KBS.CO.KR */ SECTION.comp_view_default DIV.body_txt.fr-view, DIV.det-news .detail-body, DIV.det-news .card-gallery P,\n/* IMBC.COM */ DIV.news_contents SECTION.cont SECTION.body SECTION.txt, DIV.view-area DIV.left DIV.bottom-area DIV.content-wrap,\n/* SBS.CO.KR */ DIV.w_article DIV.main_text, DIV#content DIV.main_text,\n/* ABLENEWS.CO.KR */ DIV#NewsContent,\n/* MOVIE.NAVER.COM */ DIV.story_area P.con_tx,\n/* DONGASCIENCE.DONGA.COM */ DIV#article_body P,\n/* EINFOMAX.CO.KR */ DIV.article-veiw-body.view-page div[style]+div[style], DIV.article-veiw-body.view-page div[style]+p, DIV.article-veiw-body.view-page figure+div[style], DIV.article-veiw-body.view-page figure+figure, DIV.article-veiw-body.view-page figure+p,\n\n/* LABORTODAY.CO.KR */ DIV#articleBody > DIV.body p,\n#articleView .article.medium *\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n\tword-spacing: 0px;\t\n\n}\n\n/* ---- QUOTE ----  */ \n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV#news-box2 DIV.news-box2 {\n\t  font: 16px/1.5 Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\n}\n\n\n/* ---->> COMMENT <<---- */ \n/* news.v.daum.net */ P.desc_txt.font_size_17, P.desc_txt.font_size_,\n/* movie.daum.net */ .list_review .desc_review,\n/* MOVIE.NAVER.COM */ DIV.score_result DIV.score_reple P,\n/* news.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* FINANCE.NAVER.COM */ DIV.cbox DIV.cbox_list_comment DIV.cbox_desc_comment P.cbox_desc,\n/* tv.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* news.nate.com */ DD[id^=\"list_cmtcontent_\"], .cmt_best DL.cmt_item DD.usertxt, DIV.replyContent DIV.reply DD.userText A,\n/* chosun.com */ DL.cmt_comment .cmt_txt,\n/* techit.kr */ BLOCKQUOTE.quotation_blockquote P,\n/* VIEWSNNEWS.COM */ SECTION#reply LI P,\n/* IMBC.COM */ DD.rpl_article, \n/* THISISGAME.COM*/ .comment-box .comment-content,\n/* JEJUSORI.NET */ section.comments-content,\n/* JOINS.COM */ DIV.comment_area DL.cmt_info P,\n/* MEDIATODAY.CO.KR */ DIV.custom-view SECTION.reply-list SECTION.container SECTION.comments-content,\n/* discus.co.kr */ DIV.post-content .post-message P, \n.discovery-post .top-comment P,\n/* livere.me */ DIV#container .reply-content-wrapper .reply-content P\n\n{\n    font: 16px Roboto Condensed, Yuppy TC, Nanumbarunpen !important;\n\tcolor: #3b4e90;\n}\n\n\n\n/* ---->> Misc. <<---- */ \n/* ---- LIST OF TITLE ---- */ \n/* FINANCE.NAVER.COM */ TABLE.type2 TD.title A \n{\n\tfont-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\tfont-size: medium;\n\n}\n\n/* ----> DESCRIPTION <---- */\n/* INDIEPOST.CO.KR */ DIV.description:lang(ko) P,\n/* INSIGHT.CO.KR */ SPAN.caption,\n/* CIOKOREA.COM */ #m_topic_news_list_summary, .news_body_summary,\n/* FEEDLY.COM */ .fx .entry.u4 .summary, [itemprop=\"description\"],\n/* TECHIT.KR */ DIV.StoryDescription__paragraph,\n/* SLOWNEWS.KR */ DIV.footnote-content-wrapper P,\n/* NEWS.DAUM.NET */ #newsColl .wrap_cont .desc,\n/* 1BOON.KAKAO.COM */ .quote_view .type_emph BLOCKQUOTE.txt_quote SPAN, .htmlbox_view .line_tip,\n/* MOVIE.DAUM.NET */ .movie .main_detail .desc_movie:lang(ko), \n.movie .cont_movie .list_magazine .txt_magazine:lang(ko)\n{\n\tfont-family: Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n/* MT.CO.KR */ font[color]\n{\n\tfont-family: Sans;\n\tfont-size: medium;\n\tfont-weight: bold;\n\n}\n\n/* N.NEWS.NAVER.COM */ /* DIV.newsct_article SPAN.article_p */ SPAN.cssFont \n{\n\tfont: 17px/1.9 Roboto Condensed, Yuppy TC, Nanumbarunpen;\n\tfont-style: oblique;\n}\n",
 				"urlPrefixes": [
 					"http://kookminnews.com/news/",
 					"https://news.einfomax.co.kr/news/"
@@ -129,7 +129,7 @@
 					"media.daum.net",
 					"upinews.kr",
 					"platum.kr",
-					"",
+					"wikitree.co.kr",
 					"gamemeca.com",
 					"bodnara.co.kr",
 					"mediatoday.co.kr",
@@ -228,10 +228,10 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
 			}
 		],
-		"updateDate": 1587254294739,
+		"updateDate": 1587870179838,
 		"id": 4,
 		"_id": "91650705-51c6-4c74-a59f-31c414fbd035",
-		"_rev": 1587287591178
+		"_rev": 1587870179838
 	},
 	{
 		"enabled": true,
@@ -263,7 +263,7 @@
 		"updateDate": 1586003409820,
 		"id": 5,
 		"_id": "8737d050-0bbc-40df-b839-67f84b42c5cf",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -285,7 +285,30 @@
 		"updateDate": 1574754499345,
 		"id": 6,
 		"_id": "b441be31-04ed-4906-b124-dd9730cbeffd",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr"
+				]
+			}
+		],
+		"updateDate": 1579404742773,
+		"id": 7,
+		"_id": "831777dc-12a9-4be4-8acf-b99c290823ee",
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -317,30 +340,7 @@
 		"updateDate": 1582502865917,
 		"id": 8,
 		"_id": "8b8a63d1-c70c-41d6-99da-2a5e45424110",
-		"_rev": 1587287591178
-	},
-	{
-		"enabled": true,
-		"updateUrl": null,
-		"md5Url": null,
-		"url": null,
-		"originalMd5": null,
-		"installDate": 1571193861993,
-		"name": "go.kr / re.kr / or.kr",
-		"sections": [
-			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
-				"domains": [
-					"go.kr",
-					"re.kr",
-					"or.kr"
-				]
-			}
-		],
-		"updateDate": 1579404742773,
-		"id": 9,
-		"_id": "831777dc-12a9-4be4-8acf-b99c290823ee",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
 	},
 	{
 		"enabled": true,
@@ -374,6 +374,6 @@
 		"updateDate": 1587006604610,
 		"id": 12,
 		"_id": "48a0c37d-d850-4c77-9cc6-99aabe69f45b",
-		"_rev": 1587287591178
+		"_rev": 1587771564537
 	}
 ]
