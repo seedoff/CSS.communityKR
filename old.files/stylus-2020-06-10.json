@@ -244,7 +244,7 @@
 		"name": "Wiki and References",
 		"sections": [
 			{
-				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text p,\n/* WIKODOK.NET */ DIV#blog DIV.prev-article.row.postContents P,\n/* LIBREWIKI.NET article on BBS */ ARTICLE DIV.xe_content P,\n/* EVERIPEDIA.ORG */ SPAN[class^=\"Typography__SentenceFormatted\"] SPAN,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: 17px/1.8 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n/* NETHACKWIKI.COM */ DIV.mw-body-content P\n{\n    font: 16px Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n\n/* ---->> COMMENT <<---- */ \n/* LIBREWIKI */ LI.fdb_itm DIV.xe_content\n{\n\tfont: medium Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen ;\n}\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV,\n/* EVERIPEDIA.ORG */ SPAN.link-noindexed SPAN\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* WIKIDOK.NET */ DIV.wkd_pick_doc P.wkd_pick_doc_mintxt,\n/* EVERIPEDIA.ORG */ DIV[CLASS*=\"EllipsisLabel\"],\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}\n\n/* ---- List of Title  in BBS ---- */ \n/* LIBREWIKI.NET */ TABLE.bd_tb_lst TD.title A \n{\n\tfont-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n}",
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text p,\n/* WIKODOK.NET */ DIV#blog DIV.prev-article.row.postContents P,\n/* LIBREWIKI.NET article on BBS */ ARTICLE DIV.xe_content P,\n/* EVERIPEDIA.ORG */ SPAN[class^=\"Typography__SentenceFormatted\"] SPAN,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: 17px/1.8 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n/* NETHACKWIKI.COM */ DIV.mw-body-content P\n{\n    font: 16px Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n\n/* ---->> COMMENT <<---- */ \n/* LIBREWIKI */ LI.fdb_itm DIV.xe_content\n{\n\tfont: medium Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen ;\n}\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV,\n/* EVERIPEDIA.ORG */ SPAN.link-noindexed SPAN\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* WIKIDOK.NET */ DIV.wkd_pick_doc P.wkd_pick_doc_mintxt,\n/* EVERIPEDIA.ORG */ DIV[CLASS*=\"EllipsisLabel\"],\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}\n\n/* ---- List of Title  in BBS ---- */ \n/* LIBREWIKI.NET */ TABLE.bd_tb_lst TD.title A \n{\n\tfont-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n}",
 				"urlPrefixes": [
 					"http://ko.goclassic.co.kr/wiki/",
 					"https://nethackwiki.com/wiki/"
@@ -261,10 +261,10 @@
 				]
 			}
 		],
-		"updateDate": 1591628042156,
+		"updateDate": 1591793511612,
 		"id": 5,
 		"_id": "8737d050-0bbc-40df-b839-67f84b42c5cf",
-		"_rev": 1591628042156
+		"_rev": 1591793511612
 	},
 	{
 		"enabled": true,
@@ -298,18 +298,19 @@
 		"name": "go.kr / re.kr / or.kr",
 		"sections": [
 			{
-				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01,\n/* GOV.KR */ DIV.contents DIV.view-contents\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
 				"domains": [
 					"go.kr",
 					"re.kr",
-					"or.kr"
+					"or.kr",
+					"gov.kr"
 				]
 			}
 		],
-		"updateDate": 1579404742773,
+		"updateDate": 1591794558329,
 		"id": 7,
 		"_id": "831777dc-12a9-4be4-8acf-b99c290823ee",
-		"_rev": 1591176101228
+		"_rev": 1591794558329
 	},
 	{
 		"enabled": true,
