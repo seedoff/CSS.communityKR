@@ -247,8 +247,7 @@
 				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text p,\n/* WIKODOK.NET */ DIV#blog DIV.prev-article.row.postContents P,\n/* LIBREWIKI.NET article on BBS */ ARTICLE DIV.xe_content P,\n/* EVERIPEDIA.ORG */ SPAN[class^=\"Typography__SentenceFormatted\"] SPAN,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: 17px/1.8 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n/* NETHACKWIKI.COM */ DIV.mw-body-content P\n{\n    font: 16px Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n\n/* ---->> COMMENT <<---- */ \n/* LIBREWIKI */ LI.fdb_itm DIV.xe_content\n{\n\tfont: medium Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen ;\n}\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV,\n/* EVERIPEDIA.ORG */ SPAN.link-noindexed SPAN\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* WIKIDOK.NET */ DIV.wkd_pick_doc P.wkd_pick_doc_mintxt,\n/* EVERIPEDIA.ORG */ DIV[CLASS*=\"EllipsisLabel\"],\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}\n\n/* ---- List of Title  in BBS ---- */ \n/* LIBREWIKI.NET */ TABLE.bd_tb_lst TD.title A \n{\n\tfont-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n}",
 				"urlPrefixes": [
 					"http://ko.goclassic.co.kr/wiki/",
-					"https://nethackwiki.com/wiki/",
-					"https://zetawiki.com/wiki/"
+					"https://nethackwiki.com/wiki/"
 				],
 				"domains": [
 					"namu.wiki",
@@ -262,10 +261,10 @@
 				]
 			}
 		],
-		"updateDate": 1591883248823,
+		"updateDate": 1591795073101,
 		"id": 5,
 		"_id": "8737d050-0bbc-40df-b839-67f84b42c5cf",
-		"_rev": 1591883248823
+		"_rev": 1591795073101
 	},
 	{
 		"enabled": true,
