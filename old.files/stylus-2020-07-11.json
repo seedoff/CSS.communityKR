@@ -356,7 +356,7 @@
 		"name": "Document and books",
 		"sections": [
 			{
-				"code": "∏/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P, DIV#content ARTICLE#wikiArticle,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* WIKIDOCS.NET */ DIV.container DIV.content DIV.page-content P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P,\n/* DOCS.AWS.AMAZON.COM */ DIV#main-content dd, DIV#main-content dt, DIV#main-content p, DIV#main-content pre, \n/* RUST-LANG-BOOK-KO */ DIV.page DIV.content P,\n/* MUG896.GITHUB.IO/BASH-SHELL */ .book .book-body .page-wrapper .page-inner section.normal p,\n/* SUPPORT.GOOGLE.COM */ DIV.main-content ARTICLE.page SECTION.article-container DIV.cc P,\n/* MICROSOFT.COM */ DIV.mainContainer DIV#main-column P,\n/* TUTORIALSPOINT.COM */ DIV.tutorial-content P \n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P, DIV#content ARTICLE#wikiArticle,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P,\n/* DOCS.AWS.AMAZON.COM */ DIV#main-content dd, DIV#main-content dt, DIV#main-content p, DIV#main-content pre, \n/* RUST-LANG-BOOK-KO */ DIV.page DIV.content P,\n/* MUG896.GITHUB.IO/BASH-SHELL */ .book .book-body .page-wrapper .page-inner section.normal p,\n/* SUPPORT.GOOGLE.COM */ DIV.main-content ARTICLE.page SECTION.article-container DIV.cc P,\n/* MICROSOFT.COM */ DIV.mainContainer DIV#main-column P,\n/* TUTORIALSPOINT.COM */ DIV.tutorial-content P \n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
 				"urlPrefixes": [
 					"https://docs.djangoproject.com/ko/",
 					"https://developer.mozilla.org/ko/",
@@ -369,8 +369,7 @@
 					"https://www.tutorialspoint.com/",
 					"https://rinthel.github.io/rust-lang-book-ko/",
 					"https://mug896.github.io/bash-shell/",
-					"http://gameprogrammingpatterns.com/",
-					"https://wikidocs.net/"
+					"http://gameprogrammingpatterns.com/"
 				],
 				"domains": [
 					"britg.kr"
@@ -383,9 +382,9 @@
 				]
 			}
 		],
-		"updateDate": 1594439837265,
+		"updateDate": 1591773492478,
 		"id": 12,
 		"_id": "48a0c37d-d850-4c77-9cc6-99aabe69f45b",
-		"_rev": 1594439837265
+		"_rev": 1591773492478
 	}
 ]
