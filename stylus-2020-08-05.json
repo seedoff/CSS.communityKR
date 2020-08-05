@@ -1,0 +1,401 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570755221764,
+		"name": "#BASIC",
+		"sections": [
+			{
+				"code": "BODY,\nINPUT,\nTEXTAREA,\nSELECT {\n    -webkit-font-smoothing: auto;\n\t-moz-osx-font-smoothing: auto;\n}\n\nH1,\nH2,\nH3,\nH4,\nH5,\nH6 {\n    font-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\nB,\nSTRONG,\nEM,\nCITE,\nU,\nI,\nS, \nDEL,\nA{\n    font-family: Noto Sans, Noto Sans CJK KR;\n}\n\nLIGHTER {\n    font-family: Noto Sans, Noto Sans CJK KR !important;\n}\n\nBLOCKQUOTE,\nARTICLE BLOCKQUOTE P{\n    font-family: Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n\nFOOTER {\n    font-size: small;\n}\n\nA:hover {\n    text-shadow: 1px 1px 0px #ffffff, 1px 1px 0px #000;\n\t\n}\n\nA:visited {\n    color: darkred;\n}"
+			},
+			{
+				"code": "/* ---->> GENERAL PURPOSE MAIN ARTICLE <<---- */\n/*\nARTICLE:lang(ko-kr) P,\nARTICLE:lang(ko) P,\nDIV.entry-content:lang(ko-kr) P,\nDIV.entry-content:lang(ko) P,\nDIV.page-content:lang(ko-kr) P,\nDIV.page-content:lang(ko) P,\nDIV.area_view:lang(ko-kr) P,\nDIV.area_view:lang(ko) P,\nDIV.body-article:lang(ko-kr) P,\nDIV.body-article:lang(ko) P,\nDIV.article_content .article_view:lang(ko) P,\nDIV.post-content:lang(ko) P, DIV.post-content P,\nDIV.tt_article_useless_p_margin:lang(ko) P\n*/\nARTICLE P,\nDIV.entry-content P,\nDIV.page-content P,\nDIV.post-content P,\nDIV.post-body P,\nDIV.post P,\nDIV.area_view P,\nDIV.body-article P,\nSECTION.markdown-section P,\nDIV[itemprop=\"articleBody\"] P,\nDIV[itemprop=\"blogPost\"],\nSECTION.main-content P,\nDIV.article P,\nDIV.read_body DIV.xe_content,\nDIV#article DIV.tt_article_useless_p_margin P\n{\n    font-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n"
+			},
+			{
+				"code": "/* ---->> GENERAL PURPOSE COMMENT <<---- */\nDIV.post-content BLOCKQUOTE P,\n[class*=\"desc\"], \nSECTION.main-content BLOCKQUOTE P\n{\n\t\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}"
+			}
+		],
+		"updateDate": 1591795531924,
+		"id": 1,
+		"exclusions": [],
+		"_id": "69879956-afd4-496d-a111-16fef55b9395",
+		"_rev": 1595854554451
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570755728314,
+		"name": "Google, Youtube",
+		"sections": [
+			{
+				"code": "/* Top result from Google Search */ SPAN.e24Kjd\n{\n\tfont-family: Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\n}\n\n\n/* Search result description */ .st, .iUh30,\n/* Search result description in mobile page */ DIV.MUxGbd.yDYNvb \n{\n    font-size: 14px;\n    font-family: Roboto Condensed,  Yuppy TC, Songti TC, Nanumbarunpen;\n}\n\n\n/* Search result Title */ H3.LC20lb {\n    font-weight: 500;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\n/* Search result Title in mobile page */ DIV.MUxGbd.v0nnCb {\n\tfont: 18px bold Noto Sans, Noto Sans CJK KR;\n\tfont-style: oblique;\n}\n\n/* Date search result created */ SPAN.st SPAN.f  {\n    color: #eb0000;\n\tfont-style: oblique;\n}\n\n/* Search keyword in the results */  .s .st EM  {\n    color: indianred;\n}\n\n\n/* YOUTUBE description */\n#description.ytd-video-secondary-info-renderer {\n    font-family: Roboto Condensed,  Yuppy TC, Songti TC, Nanumbarunpen;\n}\n\n/* YOUTUBE title */\n.title.ytd-video-primary-info-renderer {\n    font-family: Yes24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n}\n\n/* YOUTUBE comment */\n#content-text.ytd-comment-renderer,\nytm-comment-renderer[expanded=\"true\"] .comment-text\n{\n    font-family: Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen;\n\tfont-size: 16px;\n\tline-height: 1.2;\n}",
+				"domains": [
+					"google.com",
+					"youtube.com"
+				]
+			}
+		],
+		"updateDate": 1591627972054,
+		"id": 2,
+		"_id": "69ca0b64-5726-42ac-975b-2134fde8433d",
+		"_rev": 1591627972054
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570756271983,
+		"name": "Community",
+		"sections": [
+			{
+				"code": "/* ---->>  MAIN ARTICLE  <<---- */ \n\n/* CLIEN.NET */  .post_article P, .post_article SPAN {\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n\t\n}\n\n/* CLIEN.NET */ DIV.content_view DIV.post_view ARTICLE DIV.post_article P,\n/* DVDPRIME.COM */ DIV.resContents P, \nDIV#resContents, P SPAN[style*=\"굴림\"],\n/* DDANZI.COM */  DIV[class^=\"document_\"] P, \nDIV[class^=\"document_\"] P SPAN,\n/* CUONET.COM */ DIV.view-content DIV,\n/* OKKY.KR */ ARTICLE.content-text > P,\n/* TYPEMOON.NET */ DIV#view_content, \n/* 2CPU.CO.KR */ SPAN#writeContents P,\n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_view .view_content P, \n/* GASENGI.COM */ DIV#writeContents FONT,\n/* PGR21.COM */ DIV.articleArea, \n/* KPUG.KR */ DIV.read_body DIV.xe_content,\n/* CINEASTE.CO.KR  */ DIV.view-content, DIV.view-content P, \n/* THEQOO.NET */ DIV.bd DIV.rd_body ARTICLE,\n/* HADA.IO */ SPAN#topic_contents,\n/* SHAREDIT.CO.KR */ DIV.blogpost-content.break-word DIV.mb-10,\n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_content, P[style*=\"굴림\"],\n/* AVANGS.INFO */ \n/* TODAYHUMOR.CO.KR */ DIV.viewContent,\n/* SLRCLUB.COM */ DIV.userct, DIV#userct,\n/* BOBAEDREAM.CO.KR */ DIV.bodyCont, DIV.article-body *, TD#body_frame P,\n/* PPOMPPU.CO.KR */ TD.board-contents P, DIV.cont P,\n/* FMKOREA.COM */ ARTICLE > DIV[class^=\"document_\"] P,\n/* MLBPARK.DONGA.COM */ DIV.view_context .ar_txt,\n/* INVEN.CO.KR */ DIV#powerbbsContent,\n/* 82COOK.COM */ DIV#articleBody, \n/* DCINSIDE.COM */ DIV.gallview_contents,\n/* JJANG0U.COM */ DIV.smartOutput P,\n/* SCIENG.NET */ DIV.section-article .dti .dti-txt,\n/* INSTIZ.NET */ DIV#memo_content_1 P,\n/* DOGDRIP.NET */ \n/* CAFE.NAVER.COM */ DIV#tbody P,\n/* JOYSF.COM */ DIV.readBody DIV.contentBody DIV.xe_content,\n/* REDDIT.COM */ DIV[data-test-id=\"post-content\"] DIV DIV P,\n/* STACKOVERFLOW.COM */ DIV.post-layout--right DIV.post-text, \n/* AAGAG.COM */ DIV#vContent\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n\t\n}\n\n/* ---->>  COMMENT  <<---- */ \nDIV[data-role^=\"comment\"] P,\n/* CLIEN.NET */ DIV.comment_row .comment_view, \n/* DVDPRIME.COM */ DIV.comment_content.clear ,\n/* DDANZI.COM */ DIV.fdComment .xe_content,\n/* TYPEMOON.NET */ TABLE.mw_basic_comment_content DIV[id^=\"view_\"],\n/* OKKY.KR */ ARTICLE.list-group-item-text.note-text,\n/* BBS.RULIWEB.COM */ .comment_wrapper .comment_view .comment_element .comment .text_wrapper .text,\n/* CINEASTE.CO.KR */ SECTION.comment-media DIV.media DIV.media-content,\n/* PGR21.COM */ DIV.cmemo SPAN,\n/* WEB.HUMORUNIV.COM */ .cmt_text, #cmt_wrap_box .cmt_list,\n/* TODAYHUMOR.CO.KR */ DIV.memoContent,\n/* BOBAEDREAM.CO.KR */ \nDIV.commenticontype DIV.commentlistbox UL.best123 LI DD[ID^=\"bepl_small_cmt\"],\nDIV.commenticontype DIV.commentlistbox UL.best123reply LI.re DD,\nDIV.commenticontype DIV.commentlistbox UL.basiclist LI DD[ID^=\"small_cmt\"],\nDIV.reply-area DIV.reple_body UL.list LI.best DIV.con_area DIV.reply,\nDIV.reply-area DIV.reple_body UL.list DIV.reply,\nDIV[ID^=\"small_cmt\"],\n/* SLRCLUB.COM */ DIV.cmt-contents,\n/* PPOMPPU.CO.KR */  .hot-comment-preview TABLE TD, #quote DIV.comment_wrapper TAble.info_bg DIV.han,\n/* FMKOREA.COM */ li.fdb_itm DIV.xe_content, \n/* MLBPARK.DONGA.COM */ .reply_list .other_reply .txt .re_txt, .reply_list .my_reply .txt .re_txt,\n/* INVEN.CO.KR */ #powerbbsCmt2 .commentList1 UL LI SPAN.content,\n/* HADA.IO */ TR.comment P,\n/* 82COOK.COM */ DIV.read_reple P,\n/* DCINSIDE.COM */ P.usertxt.ub-word,\n/* AVANGS.INFO */ \n/* JJANG0U.COM */ LI.txt_pre SPAN,\n/* SCIENG.NET */ UL.user-comlist LI.user-comment P,\n/* DOGDRIP.NET */ DIV[class^=\"comment_\"] P,\n/* AAGAG.COM */ DIV.icomment DIV.cmt DIV.content,\n/* KPUG.KR */ DIV.feedback DIV.xe_content P,\n/* JOYSF.COM */ DIV.replyContent DIV.xe_content,\n/* SHAREDIT.CO.KR */ DIV.comment-body.clearfix,\n/* HAMONIKR.ORG */ DIV#comment DIV.xe_content,\n/* OKSJP.PE.KR */ ARTICLE.list-group-item-text.note-text P,\n/* CAFE.NAVER.COM */ UL.cmlist P.comm SPAN.comm_body,\n/* CAFE.DAUM.NET */ .cafe_memo .list_cafe li .info_cafe .tit_info,\n/* REDDIT.COM */ DIV[data-test-id=\"comment\"] DIV,\n/* STACKOVERFLOW.COM */ ul.comments-list .comment-body SPAN.comment-copy\n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen !important ;\n\t\n}\n\n\t\nSPAN.content_memo, DIV.comment_button DIV {\n\tfont-size: small !important;\n}\n\n/* ----> COMMENT line height adjustment<---- */\n/* AAGAG.COM */ #c_main #nresponse .comment div\n{\n\tline-height: 1.2;\n}\n\n/* ---->>  LIST TITLE  <<---- */ \n/* CLIEN.NET */ .list_item .list_title .list_subject .subject_fixed,  \n\n.section_list .list_item .list_title .list_subject .subject, .section_list .list_item .list_title .list_subject .icon_pic,\n\n/* DVDPRIME.COM */ .list_subject_a, DIV.cut_str.rc_box_list_best_a_inner, \n/* DDANZI.COM */ .board_con .list_style TABLE TBODY TR TD.title A, .boardR .read_header H1 A, .board_list .editorPost_style UL LI A,\n/* AVANGS.INFO */ A.newclearfix P.listTitle,\n/* HADA.IO */ TD.topictitle A, NAV TD.itd, NAV TD.ltd, NAV TD.rtd,\n/* TYPEMOON.NET */ TD#mw_basic .mw_basic_view_subject, #mw_basic .mw_basic_list_subject a,\n/* BBS.RULIWEB.COM */ #board_read .board_main .board_main_top .user_view .subject,\n/* WEB.HUMORUNIV.COM */ SPAN#ai_cm_title, A.li:LINK,\n/* TODAYHUMOR.CO.KR */ .viewSubjectDiv DIV, .subject A:LINK,\n/* BOBAEDREAM.CO.KR */ .writerProfile DT STRONG, .clistTable07 TBODY TD > A, A.bbs:link,\n/* SLRCLUB.COM */ #bbs_view_head .sbj, #bbs_list .sbj A,\n/* PPOMPPU.CO.KR */ FONT.view_title2, FONT.list_title,\n/* FMKOREA.COM */ .fm_best_widget .title,\n/* MLBPARK.DONGA.COM */ .tbl_type01 TBODY TR TD .bullpen,\n/* CINEASTE.CO.KR */ DIV.list-board UL.list-body DIV.wr-subject A.item-subject,\n/* INVEN.CO.KR */ #powerbbsBody .articleView .articleMain .articleSubject .articleTitle H1, #powerbbsBody .articleList TABLE TD.bbsSubject A.sj_ln,\n/* 82COOK.COM */ h4.title.bbstitle SPAN, .skin1 TABLE TBODY TD.title,\n/* KPUG.KR */ DIV.board_list TD.title A,\n/* DCINSIDE.COM */ TD.gall_tit.ub-word,\n/* THEQOO.NET */ TABLE.bd_lst TD.title A,\n/* CAFE.NAVER.COM */ DIV.article-board A.article,\n/* JOYSF.COM */ TABLE.boardList TBODY TD.title,\n/* AAGAG.COM */ .aalist A.article .title\n{\n    font-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\ttop: 0px;\n\tline-height: 16px;\n}\n\n\n/* ---->> Misc <<---- */\n/* CLIEN.NET  .post_article P SPAN[style*=\"color:\"],  */\n/* DVDPRIME.COM */ SPAN[style^=\"color:\"] \n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n}\n\n/* Style of Title */\n/* CLIEN.NET */ .post_title .post_subject, DIV.board_name H2 A,\n/* DVDPRIME.COM */ DIV#body_title_left DIV A, DIV#view_header1 DIV#writeSubject\n{\n\tfont-family: YES24;\n\tfont-style: oblique;\n\tfont-weight: 600;\n\ttext-shadow: 1px 1px 1px #ffffff, 1px 1px 1px #000;\n}\n\n/* Adjustment line height on main Article CLIEN.NET */ .fr-view P, ARTICLE DIV.post_article P\n{\n\tline-height: 1.9 !important;\n}\n\n/* CLIEN.NET */ .list_item .list_title .list_subject:visited \n{\n\tcolor: #006ccc;\n}\n\n/* ---- DESCRIPTION ---- */ \n/* HADA.IO */ TR.topicdesc A.c99,\n/* SHAREDIT.CO.KR */ P.margin-clear.small {\n\tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n}\n\n/* ---->> QUOTE <<---- */ \n/* DVDPRIME.COM */ BLOCKQUOTE.quote_div SPAN, BLOCKQUOTE.quote_div P {\n\tfont-family: Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen  !important;\n\t\n}\n\n/* Blur on unnecessary article */ \n/* CLIEN.NET */ DIV.list_item.sold_out DIV.list_title  {\n\t-webkit-filter:blur(1.5px);\n}\n\n/* Market Item info  */ \n\n/* CLIEN.NET */ DIV.market_product DIV.product_table SPAN.product_info STRONG.color_black {\n\tcolor: red;\n\tfont-weight: bolder;\n\tfont-style: oblique;\n\tfont-size: 17px;\n\ttext-decoration: underline;\n}\n\n\n\n\n",
+				"urlPrefixes": [
+					"https://stackoverflow.com/"
+				],
+				"domains": [
+					"clien.net",
+					"cafe.daum.net",
+					"cafe.naver.com",
+					"dcinside.com",
+					"hamonikr.org",
+					"playwares.com",
+					"sharedit.co.kr",
+					"typemoon.net",
+					"avangs.info",
+					"2cpu.co.kr",
+					"hada.io",
+					"kpug.kr",
+					"gasengi.com",
+					"issuein.org",
+					"cineaste.co.kr",
+					"pgr21.com",
+					"okky.kr",
+					"etoland.co.kr",
+					"dogdrip.net",
+					"instiz.net",
+					"scieng.net",
+					"cuonet.com",
+					"jjang0u.com",
+					"82cook.com",
+					"inven.co.kr",
+					"mlbpark.donga.com",
+					"fmkorea.com",
+					"ppomppu.co.kr",
+					"bobaedream.co.kr",
+					"slrclub.com",
+					"x86.co.kr",
+					"dvdprime.com",
+					"aagag.com",
+					"ddanzi.com",
+					"theqoo.net",
+					"ruliweb.com",
+					"humoruniv.com",
+					"joysf.com",
+					"pe.kr",
+					"todayhumor.co.kr",
+					"reddit.com"
+				]
+			}
+		],
+		"updateDate": 1596534115593,
+		"id": 3,
+		"_id": "830d7418-7bd8-43ba-8314-4c4cabfabcc4",
+		"_rev": 1596534115593
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570762718364,
+		"name": "NEWS and Blog",
+		"sections": [
+			{
+				"code": "/* --->> TITLE <<---- */ \n/* GAMEMECA.COM */ DIV.list_view_tit P.tit\n{\n\tfont-family: YES24, Noto Sans CJK KR, Noto Sans;\n    font-weight: bold;\n\tfont-style: oblique;\n\ttext-shadow: 1px 1px 0px #ffffff, 1px 1px 1px #000;\n}\n\n\n\n/* --->>  ARTICLE   <<--- */\n/* news.v.daum.net */ .news_view SECTION > P, .news_view SECTION > DIV,\n/* entertain.naver.com */ .article_body,\n/* news.naver.com */ DIV#articleBodyContents, DIV.newsct_article,\n/* SPORTS.NAVER.COM */ DIV.fs2 DIV.newsct_body ARTICLE.main_article, DIV.fs2 DIV.newsct_body ARTICLE.main_article P,\n/* FINANCE.NAVER.COM */ DIV.scr01 DIV#body,\n/* tv.naver.com */ .player .info_box .desc,\n/* news.nate.com */ #articleView .article.medium, DIV.news_view ARTICLE DIV.view_cont,\n/* PANN.NATE.COM */ .view-wrap .posting div#contentArea, .view-wrap .posting table div#contentArea,\n/* newspeppermint.com */ DIV.main-content > DIV > P,\n/* bbc.com/korean */ DIV.story-body__inner P:lang(ko),\n/* mk.co.kr */ DIV#Content .left_content .art_txt,\n/* NOCUTNEWS.CO.KR */ DIV#pnlViewBox DIV#pnlContent,\n/* MEDIAUS.CO.KR */ ARTICLE.articleView DIV#articleBody > DIV.body P, DIV#article-wrap DIV.content \n DIV.cont-body P,\n/* GASNEWS.COM */ TD#articleBody.view_r P,\n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV.text, DIV.textyleContent DIV.xe_content P,\n/* BIZHANKOOK.COM */ DIV.sub01 SECTION.viewContWrap > P,\n/* koreatimes.com */ DIV#print_arti,\n/* SCIENCETIMES.CO.KR */ DIV#content-area P,\n/* GAMEMECA.COM */ DIV.news-view DIV.article DIV, DIV.view_cont DIV,\n/* WIKITREE.CO.KR */ DIV.content_left_wrap DIV.article_body DIV, DIV.content_left_wrap DIV.article_body P,\n/* sisain.co.kr */ DIV#article-view-content-div,\n/* KOOKMINNEWS.COM */ DIV.basicView DIV.viewContentWrap DIV.viewContent P SPAN,\n/* NEWSCHAM.NET */ DIV#news-article-content,\n/* koreadaily.com */ ARTICLE#articleContents,\n/* gqkorea.co.kr */ .single-post .post-content P,\n/* esquirekorea.co.kr */ #eq .article_wrap .atc_content,\n/* chosun.com */ DIV.news_body .par,\n/* khan.co.kr */ DIV.viewContent .viewText,\n/* seoul.co.kr */ DIV.v_article, DIV.Acon18,\n/* clomag.co.kr */ DIV.article .content P, \n/* BODNARA.CO.KR */ DIV#article_1 P,\n/* mt.co.kr */ #article .article_view table td .view_text #textBody,\n/* ciokorea.com */ DIV.node_body,\n/* BOANNEWS.COM */ #body_left #media #news_content,\n/* itworld.co.kr */ DIV.node_body .cb P,\n/* LAWTALK.CO.KR */ DIV.ql-editor P ,\n/* insight.co.kr */ DIV.news-article-memo P,\n/* ILYO.CO.KR */ DIV.articleView DIV.contentView,\n/* news.joins.com */ DIV.article_body, DIV.article04, DIV.article04 DIV.article_content, DIV.article04 DIV.article_content p, DIV.article04 td,\n/* DONGA.COM/NEWS */ DIV#content DIV.article_view DIV.article_txt,\n/* techit.kr */ p.StoryBody__paragraph,\n/* cine21.com */ DIV#container #content.news.detail .article P,\n/* noteforum.co.kr */ TD.BbsViewContents P FONT,\n/* VIEWSNNEWS.COM */ DIV.content,\n/* PLATUM.KR */ DIV#page_content_wrapper P, DIV.page_content_wrapper P,\n/* HANKYUNG.COM */ DIV#articletxt, \n/* VOP.CO.KR */ DIV.contents P.article-text,\n/* VOAKOREA.COM */ DIV.wsw P,\n/* ASIAE.CO.KR */ TD DIV.read, \n/* SLOWNEWS.KR */ DIV.single_article_content P,\n/* THEBELL.CO.KR */ DIV.viewBox .viewSection,\n/* VENTURESQUARE.NET */ ARTICLE.post DIV.post-content > P,\n/* KBS.CO.KR */ SECTION.comp_view_default DIV.body_txt.fr-view, DIV.det-news .detail-body, DIV.det-news .card-gallery P,\n/* IMBC.COM */ DIV.news_contents SECTION.cont SECTION.body SECTION.txt, DIV.view-area DIV.left DIV.bottom-area DIV.content-wrap,\n/* SBS.CO.KR */ DIV.w_article DIV.main_text, DIV#content DIV.main_text,\n/* ABLENEWS.CO.KR */ DIV#NewsContent,\n/* MOVIE.NAVER.COM */ DIV.story_area P.con_tx,\n/* DONGASCIENCE.DONGA.COM */ DIV#article_body P,\n/* EINFOMAX.CO.KR */ DIV.article-veiw-body.view-page div[style]+div[style], DIV.article-veiw-body.view-page div[style]+p, DIV.article-veiw-body.view-page figure+div[style], DIV.article-veiw-body.view-page figure+figure, DIV.article-veiw-body.view-page figure+p,\n\n/* NEOSHERLOCK.COM */ DIV.entry-content P,\n\n/* LABORTODAY.CO.KR */ DIV#articleBody > DIV.body p,\n#articleView .article.medium *\n{\n    font: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n\tword-spacing: 0px;\t\n\n}\n\n/* ---- QUOTE ----  */ \n/* AJUNEWS.COM */ ARTICLE DIV.sub_title SPAN,\n/* HANI.CO.KR */ SECTION.article ARTICLE.body > DIV.article DIV#news-box2 DIV.news-box2 {\n\t  font: 16px/1.5 Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\n}\n\n\n/* ---->> COMMENT <<---- */ \n/* news.v.daum.net */ P.desc_txt.font_size_17, P.desc_txt.font_size_,\n/* movie.daum.net */ .list_review .desc_review,\n/* MOVIE.NAVER.COM */ DIV.score_result DIV.score_reple P,\n/* news.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* FINANCE.NAVER.COM */ DIV.cbox DIV.cbox_list_comment DIV.cbox_desc_comment P.cbox_desc,\n/* tv.naver.com */ .u_cbox .u_cbox_comment .u_cbox_text_wrap,\n/* news.nate.com */ DD[id^=\"list_cmtcontent_\"], .cmt_best DL.cmt_item DD.usertxt, DIV.replyContent DIV.reply DD.userText A,\n/* PANN.NATE.COM */ dl.cmt_item dd.usertxt,\n/* chosun.com */ DL.cmt_comment .cmt_txt,\n/* techit.kr */ BLOCKQUOTE.quotation_blockquote P,\n/* VIEWSNNEWS.COM */ SECTION#reply LI P,\n/* IMBC.COM */ DD.rpl_article, \n/* THISISGAME.COM*/ .comment-box .comment-content,\n/* JEJUSORI.NET */ section.comments-content,\n/* JOINS.COM */ DIV.comment_area DL.cmt_info P,\n/* MEDIATODAY.CO.KR */ DIV.custom-view SECTION.reply-list SECTION.container SECTION.comments-content,\n/* discus.co.kr */ DIV.post-content .post-message P, \n.discovery-post .top-comment P,\n/* livere.me */ DIV#container .reply-content-wrapper .reply-content P\n\n{\n    font: 16px Roboto Condensed, Yuppy TC, Songti TC,  Nanumbarunpen !important;\n\tcolor: #3b4e90;\n}\n\n\n\n/* ---->> Misc. <<---- */ \n/* ---- LIST OF TITLE ---- */ \n/* FINANCE.NAVER.COM */ TABLE.type2 TD.title A \n{\n\tfont-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n\tfont-size: medium;\n\n}\n\n/* ----> DESCRIPTION <---- */\n/* INDIEPOST.CO.KR */ DIV.description:lang(ko) P,\n/* INSIGHT.CO.KR */ SPAN.caption,\n/* CIOKOREA.COM */ #m_topic_news_list_summary, .news_body_summary,\n/* FEEDLY.COM */ .fx .entry.u4 .summary, [itemprop=\"description\"],\n/* TECHIT.KR */ DIV.StoryDescription__paragraph,\n/* SLOWNEWS.KR */ DIV.footnote-content-wrapper P,\n/* NEWS.DAUM.NET */ #newsColl .wrap_cont .desc,\n/* 1BOON.KAKAO.COM */ .quote_view .type_emph BLOCKQUOTE.txt_quote SPAN, .htmlbox_view .line_tip,\n/* MOVIE.DAUM.NET */ .movie .main_detail .desc_movie:lang(ko), \n.movie .cont_movie .list_magazine .txt_magazine:lang(ko)\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC,  Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n\n/* MT.CO.KR */ font[color]\n{\n\tfont-family: Sans;\n\tfont-size: medium;\n\tfont-weight: bold;\n\n}\n\n/* N.NEWS.NAVER.COM */ /* DIV.newsct_article SPAN.article_p */ SPAN.cssFont \n{\n\tfont: 17px/1.9 Roboto Condensed, Yuppy TC,  Songti TC,  Nanumbarunpen;\n\tfont-style: oblique;\n}\n",
+				"urlPrefixes": [
+					"http://kookminnews.com/news/",
+					"https://news.einfomax.co.kr/news/",
+					"http://www.donga.com/news/",
+					"http://ilyo.co.kr/",
+					"https://www.ajunews.com/",
+					"http://www.gasnews.com"
+				],
+				"domains": [
+					"v.daum.net",
+					"1boon.kakao.com",
+					"search.daum.net",
+					"media.daum.net",
+					"upinews.kr",
+					"platum.kr",
+					"wikitree.co.kr",
+					"gamemeca.com",
+					"bodnara.co.kr",
+					"mediatoday.co.kr",
+					"venturesquare.net",
+					"nocutnews.co.kr",
+					"bizhankook.com",
+					"voakorea.com",
+					"slownews.kr",
+					"newscham.net",
+					"mediaus.co.kr",
+					"sciencetimes.co.kr",
+					"ciokorea.com",
+					"sisain.co.kr",
+					"boannews.com",
+					"esquirekorea.co.kr",
+					"itworld.co.kr",
+					"bbc.com",
+					"mt.co.kr",
+					"mk.co.kr",
+					"hani.co.kr",
+					"koreatimes.com",
+					"koreadaily.com",
+					"vop.co.kr",
+					"thisisgame.com",
+					"kbs.co.kr",
+					"sbs.co.kr",
+					"imbc.com",
+					"labortoday.co.kr",
+					"thebell.co.kr",
+					"asiae.co.kr",
+					"viewsnnews.com",
+					"noteforum.co.kr",
+					"hankyung.com",
+					"cine21.com",
+					"techit.kr",
+					"feedly.com",
+					"joins.com",
+					"insight.co.kr",
+					"clomag.co.kr",
+					"disqus.com",
+					"livere.me",
+					"seoul.co.kr",
+					"khan.co.kr",
+					"movie.daum.net",
+					"movie.naver.com",
+					"indiepost.co.kr",
+					"news.nate.com",
+					"pann.nate.com",
+					"news.naver.com",
+					"finance.naver.com",
+					"tv.naver.com",
+					"entertain.naver.com",
+					"newspeppermint.com",
+					"chosun.com",
+					"gqkorea.co.kr",
+					"ablenews.co.kr",
+					"jejusori.net",
+					"sports.naver.com",
+					"neosherlock.com"
+				]
+			},
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* BLOG.DAUM.NET */ DIV#contentDiv, \n#daumContent #article.small P, \n#daumContent #article.small P *,\n\n\n/* BRUNCH.CO.KR */  P.wrap_item.item_type_text,\n/* BLOG.NAVER.COM */ \n.se-viewer:lang(ko-KR) .se-section-text.se-l-default .se-ff-, \n.se_paragraph .se_textarea SPAN,\n#cont P.se_textarea,\n/*  #post-area .post-view DIV,\n#post-area .post-view P, \n#post-area .post-view DIV P, \nDIV.post_ct SPAN,\nDIV.post_ct P,  */\nDIV.post_ct [style*=font-size], \nP.se_textarea SPAN[style^=\"color:\"],\n\n\n/* BLOGSPOT.COM */ DIV.post-body.entry-content,\n/* MEDIUM.COM */ P.go, P.gw, P.ir, P.gz, P.gb, P.he,\n/* EGLOOS.COM */ DIV.smart_post DIV.post_content, #content DIV.post DIV.content, DIV.post_content.entry-content,\n/* TIP.DAUM.NET */ DIV.cont_qna .tit_collect+.txt_collect P,\n/* D2.NAVER.COM */ .con_area .contents.detail_view .post_article .cont_post .con_view P,\n/* ESTIMASTORY.COM */ DIV.main P,\n/* SUNGMOONCHO.COM */ \n/* HEROPY.BLOG */ SECTION.markdown-content P,\n/* clomag.co.kr */ DIV.article .content P, \n/* MACNEWS.TISTORY.COM */ DIV#content DIV#main DIV.post P,\n/* BLOG.LGCNS.COM */ DIV.tt_article_useless_p_margin P SPAN[style*=\"font\"],\n/* SAMSUNGSDS.COM */ DIV.post DIV.txt_wrap P\n{\n    font: 18px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* TISTORY.COM */ DIV.blogview_content P, DIV.area_view P, DIV[class$=\"content\"] P, SPAN[style*=\"font-family\"], \n/* TISTORY.COM */ DIV.tt_article_useless_p_margin P,\nDIV.entry.entry-content:LANG(ko)\n{\n\tfont: 18px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P \n{\n\tfont: 17px/1.9 Noto Serif, Chosunilbonm;\n}\n/* THEBOOK.IO */ .mdl-grid.mdl-grid--no-spacing > .mdl-cell P.txt1 {\n\tfont-weight: bold; \n\tfont-family: Yuppy TC,  Songti TC,  Nanumbarunpen, Noto Serif, Chosunilbonm;\n\tfont-size: large;\n}\n\n\n\n/* ---->> COMMENT <<---- */\n/* BLOG.DAUM.NET */ DIV.opinionList DIV.cont, DIV.opinionList DIV.contRe, #comments LI .text,\ntextarea#simpleWriter-content, \n\n/* BLOG.NAVER.COM */.list_post_article .desc .text, \n.list_hottopic .text_post,\n#ct .common_comment .u_cbox .u_cbox_comment .u_cbox_text_wrap, SPAN.u_cbox_contents,\n/* POST.NAVER.COM */ DIV.u_cbox LI.u_cbox_comment DIV.u_cbox_text_wrap SPAN.u_cbox_contents,\n/* D2.NAVER.COM */ .con_area .contents.detail_view .post_article .cont_post .con_view BLOCKQUOTE P,\n/* TISTORY.COM */ DIV.area_reply SPAN.txt_reply, DIV.area_reply LI.re_reply SPAN.txt_reply, DIV.comment P,\n/* EGLOOS.COM */ .smart_comment .comment_list .comment_content, .smart_comment .comment_list H4.comment_writer_info SPAN.comment_writer_re,\n/* SUNGMOONCHO.COM */ LI.comment DIV.comment-content P\n{\n    font-family: Roboto Condensed, Nanumbarunpen !important;\n\tfont-size: 16px;\n\tcolor: #333333;\n\t\n}\n\n\n/* ---->> MISC. <<---- */\n\n/* BLOG.DAUM.NET */ SPAN[style*=\"color:\"],\n/* BLOG.NAVER.COM */ .se-viewer .se-module-text B, \n.wrap_rabbit .se-component a.tag,\nSPAN[style*=\"background-color:\"],\n/* SAMSUNGSDS.COM */ DIV.post DIV.txt_wrap P.sub_tit\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n}\n\n/* ----> LIST of Title <---- */\n/* EGLOOS.COM */ DIV.post_summary DIV.post_title H2.entry-title\n{\n\tfont: medium Noto Sans CJK KR, Noto Sans;\n\tfont-weight: bold;\n}\n\n/* MACNEWS.TISTORY.CoM */ DIV#content DIV#main DIV.box OL LI A\n{\n\tfont: medium Noto Sans CJK KR, Noto Sans;\n\n}\n\n\n/* ---- TITLE of Article ---- */ \n/* ESTIMASTORY.COM */ DIV#content H2 A \n{\n\tfont-family: YES24;\n}\n\n\n/* M.BLOG.NAVER.COM */ \nDIV.se-module.se-module-text.se-title-text P SPAN, \n.se_m .se_documentTitle .se_textarea\n{\n\tfont: 24px Noto Sans CJK KR, Noto Sans !important;\n\tfont-style: oblique !important;\n\tfont-weight: bold !important;\n}\n\n\n/* ----> DESCRIPTION <---- */\n/**/ .wf-active BLOCKQUOTE P,\n/* EGLOOS.COM */ DIV.post_summary DIV.post_content\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n}\n\n/* M.BLOG.NAVER.COM */ DIV.se_textView.se_mediaCaption SPAN.se_textarea,\n.card_section .text_area .txt\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen !important;\n}\n\n\n\n",
+				"domains": [
+					"blog.daum.net",
+					"tip.daum.net",
+					"medium.com",
+					"tistory.com",
+					"blogspot.com",
+					"egloos.com",
+					"thebook.io",
+					"brunch.co.kr",
+					"theimpeter.com",
+					"blog.naver.com",
+					"m.blog.naver.com",
+					"post.naver.com",
+					"blog.me",
+					"comic.naver.com",
+					"post.naver.com",
+					"d2.naver.com",
+					"estimastory.com",
+					"samsungsds.com",
+					"heropy.blog",
+					"sungmooncho.com",
+					"dullahbank.com",
+					"ne.kr",
+					"blog.aladin.co.kr",
+					"blog.lgcns.com"
+				]
+			},
+			{
+				"code": "/* ----> text area to input <---- */ \n/* BLOG.DAUM.NET */ .content p \n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen !important;\n\tfont-size: 18px;\n}\n\n/* BLOG.DAUM.NET */  DIV.post-title TEXTAREA.textarea_tit\n{\n\tfont-family: YES24;\n\tfont-style: oblique;\n}",
+				"urlPrefixes": [
+					"http://blog.daum.net/thinklearning/manage/newpost/"
+				]
+			},
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n\n\n\n/* ---->> COMMENT <<---- */\n\n\n\n/* ---->> MISC. <<---- */\n\n\n"
+			}
+		],
+		"updateDate": 1596266360140,
+		"id": 4,
+		"_id": "91650705-51c6-4c74-a59f-31c414fbd035",
+		"_rev": 1596266360141
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570844763257,
+		"name": "Wiki and References",
+		"sections": [
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n/* NAMU.WIKI */ .w .wiki-paragraph, FORM TEXTAREA[name=\"text\"],\n/* WIKIWAND.COM */ .article_content P,\n/* WIKIPEDIA.ORG */ div#mw-content-text p,\n/* WIKODOK.NET */ DIV#blog DIV.prev-article.row.postContents P,\n/* LIBREWIKI.NET article on BBS */ ARTICLE DIV.xe_content P,\n/* EVERIPEDIA.ORG */ SPAN[class^=\"Typography__SentenceFormatted\"] SPAN,\n/* 100.DAUM.NET */ P.desc_section\n{\n    font: 17px/1.8 Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n/* NETHACKWIKI.COM */ DIV.mw-body-content P\n{\n    font: 16px Bookerly, Noto Serif, Songti TC, Chosunilbonm;\n}\n\n\n\n/* ---->> COMMENT <<---- */ \n/* LIBREWIKI */ LI.fdb_itm DIV.xe_content\n{\n\tfont: medium Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen ;\n}\n\n/* ----> Misc. <<---- */ \n/* NAMU.WIKI */ .w .toc-item, .w .wiki-size.size-up-1,\n.w .wiki-table DIV,\n/* EVERIPEDIA.ORG */ SPAN.link-noindexed SPAN\n{\n    font-family: Sans;\n}\n\n/* NAMU.WIKI */  .w .wiki-quote DIV, \n/* NAMU.WIKI.popup */ DIV.fpmc .w,\n/* WIKIDOK.NET */ DIV.wkd_pick_doc P.wkd_pick_doc_mintxt,\n/* EVERIPEDIA.ORG */ DIV[CLASS*=\"EllipsisLabel\"],\n/* 100.DAUM.NET */ P.desc_summary,\n.list_hotissues  .desc_hotissues\n{\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen;\n\tfont-style: oblique;\n\n}\n\n/* NAMU.WIKI */ .w .footnote-list\n{\n    font-family: Sans;\n    font-weight: 300;\n    font-size: small;\n    color: darkslategray;\n}\n\n/* ---- List of Title  in BBS ---- */ \n/* LIBREWIKI.NET */ TABLE.bd_tb_lst TD.title A \n{\n\tfont-size: medium;\n    font-family: Literata, SF Compact Display, KoPubWorldDotum_Pro;\n}",
+				"urlPrefixes": [
+					"http://ko.goclassic.co.kr/wiki/",
+					"https://nethackwiki.com/wiki/",
+					"https://zetawiki.com/wiki/"
+				],
+				"domains": [
+					"namu.wiki",
+					"wikidok.net",
+					"100.daum.net",
+					"librewiki.net",
+					"wikiwand.com",
+					"wikipedia.org",
+					"everipedia.org",
+					"hash.kr"
+				]
+			}
+		],
+		"updateDate": 1591883248823,
+		"id": 5,
+		"_id": "8737d050-0bbc-40df-b839-67f84b42c5cf",
+		"_rev": 1591883248823
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1570962090050,
+		"name": "Social Media",
+		"sections": [
+			{
+				"code": "/* ---->> EVERY POST <<---- */\n/* FACEBOOK.COM */ DIV[data-testid=\"post_message\"] P, \n/* TWITTER.COM */ SPAN[class=\"css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0\"]\n{\n\tfont: medium/1.5 Bookerly, Noto Serif, Hannotate TC,  KOMACON, Songti TC, Chosunilbonm !important;\n}\n\n/* ----> COMMENT and REPLY <<---- */\n/* FACEBOOK.COM */ SPAN[dir=\"ltr\"] {\n\tfont-family: Roboto Condensed, Yuppy TC,  Songti TC, Nanumbarunpen !important;\n\tfont-size: 15px;;\n\tcolor: #333333;\n}\n\n",
+				"domains": [
+					"facebook.com",
+					"twitter.com"
+				]
+			}
+		],
+		"updateDate": 1591628027699,
+		"id": 6,
+		"_id": "b441be31-04ed-4906-b124-dd9730cbeffd",
+		"_rev": 1591628027699
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1571193861993,
+		"name": "go.kr / re.kr / or.kr",
+		"sections": [
+			{
+				"code": "/* ----> MAIN ARTICLE <---- */\n/* PRESIDENT.GO.KR */ DIV.View_write,\n/* KOREAN.GO.KR */ DIV.body P,\nSPAN.view_word_dis,\n/* LAW.GO.KR */ DIV.lawcon, DIV.pgroup, DIV.tbl_type P.tx,\n/* ASSEMBLY.GO.KR */  DIV.textType02,\n/* HORIZON.KIAS.RE.KR */ .post .post-content P,\n/* DESIGNMAP.OR.KR */ TABLE.bbs_read TD.cont P,\n/* FKAERO.OR.KR */ TD.tdcon01, TD.tdcon02, TD.tdcon03,\n/* INNOVATOR.OR.KR */ DIV.post-body.entry-content,\n/* SCOURT.GO.KR */ DIV.page_area P.dep_01,\n/* GOV.KR */ DIV.contents DIV.view-contents\n{\n\tfont: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n\n/* ----> COMMENT <---- */ \n\n\n/* ----> Misc. <---- */ \n",
+				"domains": [
+					"go.kr",
+					"re.kr",
+					"or.kr",
+					"gov.kr"
+				]
+			}
+		],
+		"updateDate": 1591794558329,
+		"id": 7,
+		"_id": "831777dc-12a9-4be4-8acf-b99c290823ee",
+		"_rev": 1591794558329
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1571195687581,
+		"name": ".co.kr",
+		"sections": [
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */\n/* GAMEJOB.CO.KR */ ARTICLE.viewWrap DIV.viewCont,\n/* SARAMIN.CO.KR */ DIV.user_content P,\n/* ITDAA.NET */ DIV.trix-content.froala-content,\n/* CATCH.CO.KR */ DIV.news_detail_cont, \n/* EPILIA.NET */ TABLE#tbl_view TD.td2,\n/* ALBAMON.COM */ DIV#GIContentDiv,\n/* KBENCH.COM */ DIV#contents_area P,\n/* TCPSCHOOL.COM */ DIV.editor-template H4 ~ P,\n/* EARLYADAPTER.CO.KR */ DIV.td-post-content P,\n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN,\n/* YOONJONGSHIN.COM */ DIV.main ARTICLE.post DIV.content P,\n/* SAMSUNGHOSPITAL.COM  */ ARTICLE.post-detail SECTION.post-detail-body DIV\n{\n\tfont: 17px/1.9 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important; \n}\n\n\n\n/* ----> COMMENT <---- */ \n/* GAMEJOB.CO.KR */ .commentList .commentBx .txt ,\n/* PODBBANG.COM */ DIV.top .txt,\n/* WEBTOON.DAUM.NET */ DIV.cmt_comm P.txt_cmt A, DIV.cmt_comm P.txt_cmt, UL.list_cmt SPAN.txt,\n/* DANAWA.COM */ DIV.comm_wrap DIV.atc, DIV.post_comments DIV.comm_cont DIV.cont_area,\n/* KBENCH.COM */ DIV.field-item.even,\n\n/* ----> DESCRIPTION <---- */ \n/* ALADIN.CO.KR */ DIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R,\nDIV.Ere_prod_mconts_box DIV.Ere_prod_mconts_R A,\n/* MIND-JOURNAL.COM */ DIV.custom-article-view .article-header-wrap .article-head-sub\n{\n\tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen;\t\n}\n\n\n/* ----> MISC. <---- */ \n/* ---- ignore style ---- */ \n/* MIND-JOURNAL.COM */ DIV#article-view-content-div P SPAN[style^=\"color:\"],\n\n/* ---- Caption ---- */ \n/* DESIGNHOUSE.CO.KR */ SPAN.cap\n{\n\tfont-family: Noto Sans CJK KR, Noto Sans !important;\n\n}\n\n",
+				"domains": [
+					"co.kr",
+					"tcpschool.com",
+					"kbench.com",
+					"danawa.com",
+					"albamon.com",
+					"yes24.com",
+					"itdaa.net",
+					"podbbang.com",
+					"epilia.net",
+					"webtoon.daum.net",
+					"samsunghospital.com",
+					"mind-journal.com"
+				]
+			}
+		],
+		"updateDate": 1591627915802,
+		"id": 8,
+		"_id": "8b8a63d1-c70c-41d6-99da-2a5e45424110",
+		"_rev": 1591627915802
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1575701465281,
+		"name": "Document and books",
+		"sections": [
+			{
+				"code": "/* ---->> MAIN ARTICLE <<---- */ \n\n/* -- DEVELOPMENT -- */\n/* DJANGOPROJECT.COM */ DIV#docs-content DIV.section P,\n/* DEVELOPER.MOZILLA.ORG */  DIV#wikiArticle P, DIV#content ARTICLE#wikiArticle,\n/* DOCS.PYTHON.ORG/KO */ DIV.document DIV.body DIV.section P,\n/* WIKIDOCS.NET */ DIV.container DIV.content DIV.page-content P,\n/* PYRASIS.COM */ DIV.col-md-12 P,\n/* DOJANG.IO */ SECTION#region-main P,\n/* OPENTUTORIALS.ORG */ body.cke_editable p, article div#content p, form#diff_dialog div.body div.wrapper p,\n/* INFLEARN.COM */ DIV.content P:not(:last-child),\n/* DOCS.AWS.AMAZON.COM */ DIV#main-content dd, DIV#main-content dt, DIV#main-content p, DIV#main-content pre, \n/* RUST-LANG-BOOK-KO */ DIV.page DIV.content P,\n/* MUG896.GITHUB.IO/BASH-SHELL */ .book .book-body .page-wrapper .page-inner section.normal p,\n/* SUPPORT.GOOGLE.COM */ DIV.main-content ARTICLE.page SECTION.article-container DIV.cc P,\n/* MICROSOFT.COM */ DIV.mainContainer DIV#main-column P,\n/* LWN.NET */ DIV.maincolumn DIV.ArticleText,\n/* TUTORIALSPOINT.COM */ DIV.tutorial-content P \n{\n    font: 17px/1.7 Bookerly, Noto Serif, Songti TC, Chosunilbonm !important;\n}\n\n/* --- Misc. --- */\n/* -- TITLE -- */ \n/* DOCS.PYTHON.ORG/KO */ DIV.section H1, DIV.section H2 {\n\tfont-family: Yes24\n}\n\n\n/* ----> DESCRIPTION <---- */ \n/* DJANGOPROJECT.COM */ \n/* DEVELOPER.MOZILLA.ORG */ DIV.note P, DIV.text-content DD\n/* PYRASIS.COM */ \n{\n   \tfont: medium Roboto Condensed, Yuppy TC, Songti TC, Nanumbarunpen ;\n}\n\n\n/* -- NOVEL -- */\n/* BRITG.KR */ DIV#novel-post DIV.content P {\n\t font: 18px/1.9 Bookerly, Songti TC, \"DX경필명조B\", \"WONBatang\";\n}\n\n",
+				"urlPrefixes": [
+					"https://docs.djangoproject.com/ko/",
+					"https://developer.mozilla.org/ko/",
+					"https://docs.aws.amazon.com/ko_kr",
+					"https://support.google.com/",
+					"http://pyrasis.com",
+					"https://docs.python.org/ko/",
+					"https://dojang.io/mod/page/",
+					"https://opentutorials.org/",
+					"https://www.inflearn.com/pages/",
+					"https://docs.microsoft.com/",
+					"https://www.tutorialspoint.com/",
+					"https://rinthel.github.io/rust-lang-book-ko/",
+					"https://mug896.github.io/bash-shell/",
+					"http://gameprogrammingpatterns.com/",
+					"https://wikidocs.net/",
+					"https://lwn.net/"
+				],
+				"domains": [
+					"britg.kr"
+				]
+			},
+			{
+				"code": "DIV#main-panel {\n\twidth: 100%;\n\theight: 100%;\n}",
+				"urlPrefixes": [
+					"https://www.slideshare.net"
+				]
+			}
+		],
+		"updateDate": 1596593345384,
+		"id": 12,
+		"_id": "48a0c37d-d850-4c77-9cc6-99aabe69f45b",
+		"_rev": 1596593345384
+	}
+]
